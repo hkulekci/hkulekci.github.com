@@ -1,0 +1,12 @@
+---
+layout: post
+title: How create a Github Hosted Pages
+---
+
+h1. {{ page.title }}
+
+p(meta). 16 January 2013 - Ankara
+
+This is a example post to show how to create github hosted web page. Firstly, i create a repo is named "hkulekci.github.com":http://github.com/hkulekci/hkulekci.github.com . After that i went to my kulekci.net hosting and changed the following dns records. "Settings":https://help.github.com/articles/setting-up-a-custom-domain-with-pages
+
+That's All.
