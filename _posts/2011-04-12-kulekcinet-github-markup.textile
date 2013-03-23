@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [kulekci.net] Github Markup
+title: kulekci.net Github Markup
 ---
 
 h1. {{ page.title }}
