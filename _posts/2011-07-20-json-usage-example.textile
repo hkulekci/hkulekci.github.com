@@ -1,0 +1,13 @@
+---
+layout: post
+title: Json Usage Example
+---
+
+h1. {{ page.title }}
+
+p(meta). 20 July 2011 - Ankara
+
+<script type="text/javascript" src="https://gist.github.com/1094738.js"></script><p>Kısaca bir bahsetmek istedim güzel bir örnek oldu gibi. Belki biraz daha üzerinde oynamak gerekebilir.</p>
+
+
+

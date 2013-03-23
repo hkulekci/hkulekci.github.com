@@ -1,0 +1,16 @@
+---
+layout: post
+title: Web 
+---
+
+h1. {{ page.title }}
+
+p(meta). 27 September 2011 - Ankara
+
+http://kulekci.net
+
+<p><a title="http://joehewitt.com/post/what-the-web-is-and-is-not/" href="http://joehewitt.com/post/what-the-web-is-and-is-not/"><a href="http://joehewitt.com/post/what-the-web-is-and-is-not/">http://joehewitt.com/post/what-the-web-is-and-is-not/</a></a></p>
+<p><a title="http://www.mikealrogers.com/posts/a-new-direction-for-web-applications-.html" href="http://www.mikealrogers.com/posts/a-new-direction-for-web-applications-.html"><a href="http://www.mikealrogers.com/posts/a-new-direction-for-web-applications-.html">http://www.mikealrogers.com/posts/a-new-direction-for-web-applications-.html</a></a></p>
+
+
+

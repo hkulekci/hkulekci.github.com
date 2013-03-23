@@ -1,0 +1,17 @@
+---
+layout: post
+title: Bir not
+---
+
+h1. {{ page.title }}
+
+p(meta). 12 April 2011 - Ankara
+
+<p>Direnci kırıp fark yaratmak için:</p>
+<ul><li>Her gün hayalimizin/projemizin başında olmalıyız. Aynı işe gider gibi.</li>
+<li>Projemiz/hayalimiz neyse onun dışındakilerle ilgilenmemeliyiz. Aynı işte başka şeylerle vakit geçirmememiz gerektiği gibi.</li>
+<li>En iyisini yapmak için kendimizi geliştirmeliyiz. Aynı iş yerimizde ilerlemek için gereken her şeyi öğrenmemiz gerektiği gibi.</li>
+</ul>
+
+
+

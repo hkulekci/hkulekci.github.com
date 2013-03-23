@@ -1,0 +1,15 @@
+---
+layout: post
+title: Startup Genome Map
+---
+
+h1. {{ page.title }}
+
+p(meta). 31 May 2011 - Ankara
+
+http://gigaom.com/2011/05/28/startup-genome-map/
+
+
+
+
+

@@ -1,0 +1,29 @@
+---
+layout: post
+title: Sanırım Kendimi Kahretmenin Zamanı Geldi
+---
+
+h1. {{ page.title }}
+
+p(meta). 5 June 2011 - Ankara
+
+<p>Yıllardır</p>
+<blockquote>
+<p><code>chmod -R a+wx calcium</code></p>
+</blockquote>
+<p>yerine</p>
+<blockquote>
+<p><code>chmod a+wx calcium</code></p>
+<p><code>chmod a+wx calcium/*/*</code></p>
+</blockquote>
+<p>kullandığım için kendimi kınıyorum. Her seferinde unutur mu insan!</p>
+<p>Düzenleme:</p>
+<p>Son zamanlarda çok zorlandığım bir konu daha bu yazı sayesinde çözülecek inş.</p>
+<blockquote>
+<p><code>chmod -R 777 .git</code></p>
+<p><code>rm -R .git</code></p>
+</blockquote>
+<p>Sıkıntı çözülmüştür.</p>
+
+
+

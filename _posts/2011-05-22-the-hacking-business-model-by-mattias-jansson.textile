@@ -1,0 +1,15 @@
+---
+layout: post
+title: The hacking business model by Mattias Jansson
+---
+
+h1. {{ page.title }}
+
+p(meta). 22 May 2011 - Ankara
+
+http://altdevblogaday.org/2011/05/21/the-hacking-business-model/
+
+
+
+
+

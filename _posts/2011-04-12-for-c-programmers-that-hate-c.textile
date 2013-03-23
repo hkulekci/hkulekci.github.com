@@ -1,0 +1,15 @@
+---
+layout: post
+title: For C programmers that hate C++
+---
+
+h1. {{ page.title }}
+
+p(meta). 12 April 2011 - Ankara
+
+http://users.softlab.ece.ntua.gr/~ttsiod/cpp.html
+
+
+
+
+

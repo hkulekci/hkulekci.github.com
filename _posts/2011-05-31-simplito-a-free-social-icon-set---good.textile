@@ -1,0 +1,15 @@
+---
+layout: post
+title: Simplito a Free Social Icon Set - Good
+---
+
+h1. {{ page.title }}
+
+p(meta). 31 May 2011 - Ankara
+
+http://www.webdesignerdepot.com/2011/05/simplito-a-free-social-icon-set/
+
+
+
+
+

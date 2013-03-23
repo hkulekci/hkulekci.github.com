@@ -1,0 +1,15 @@
+---
+layout: post
+title: MySQL: TEXT vs. VARCHAR Performance
+---
+
+h1. {{ page.title }}
+
+p(meta). 22 May 2011 - Ankara
+
+http://nicj.net/2011/01/20/mysql-text-vs-varchar-performance
+
+
+
+
+

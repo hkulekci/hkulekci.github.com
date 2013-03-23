@@ -1,0 +1,13 @@
+---
+layout: post
+title: Heyy My Share Button
+---
+
+h1. {{ page.title }}
+
+p(meta). 10 August 2011 - Ankara
+
+<p><script src="https://gist.github.com/1136352.js?file=gistfile1.html"></script></p>
+
+
+

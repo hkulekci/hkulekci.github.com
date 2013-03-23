@@ -1,0 +1,18 @@
+---
+layout: post
+title: Facebook Reveal Fan Page with iframe 
+---
+
+h1. {{ page.title }}
+
+p(meta). 20 June 2011 - Ankara
+
+http://www.toddnthompson.com/blog/facebook-fan-page-iframe-template-for-a-reveal-tab
+
+<p>File&#160;: <a href="http://kulekci.net/wp-content/uploads/2011/06/FB_iFrame_Tab_Template.zip">http://kulekci.net/wp-content/uploads/2011/06/FB_iFrame_Tab_Template.zip</a></p>
+<p>Maybe somethings was able to go wrong.</p>
+
+<p>Another Link&#160;: <a href="http://www.hyperarts.com/blog/facebook-static-fbml-phased-out/">http://www.hyperarts.com/blog/facebook-static-fbml-phased-out/</a></p>
+
+facebook, iframe, reveal, fan page, fan, page, different page, welcome, home page
+

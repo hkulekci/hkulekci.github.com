@@ -1,0 +1,14 @@
+---
+layout: post
+title: PHP Note - 3
+---
+
+h1. {{ page.title }}
+
+p(meta). 12 April 2011 - Ankara
+
+<p>Prior to PHP 5, constructors took on the name of the enclosing class. The new unified constructors use the name __construct(). Using the old syntax, a call to a parent constructor would tie you to that particular class: <code>parent::ParentClassName();</code></p>
+<p>This could cause problems if the class hierarchy changed&#8230;</p>
+
+
+

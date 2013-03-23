@@ -1,0 +1,15 @@
+---
+layout: post
+title: 
+---
+
+h1. {{ page.title }}
+
+p(meta). 17 July 2011 - Ankara
+
+
+
+
+
+ikea, evinizin, herşeyi, saat
+

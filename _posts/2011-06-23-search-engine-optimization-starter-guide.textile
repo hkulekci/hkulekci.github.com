@@ -1,0 +1,15 @@
+---
+layout: post
+title: Search Engine Optimization Starter Guide
+---
+
+h1. {{ page.title }}
+
+p(meta). 23 June 2011 - Ankara
+
+http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf
+
+<p>Zaman zaman içinde değişmiş de haberimiz yok. Biraz takip etmede geride kaldık sanırım.</p>
+
+
+

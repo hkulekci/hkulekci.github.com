@@ -1,0 +1,15 @@
+---
+layout: post
+title: Hacking Ubuntu to Improve Performance
+---
+
+h1. {{ page.title }}
+
+p(meta). 6 May 2011 - Ankara
+
+http://www.extremetech.com/article2/0,1697,2114120,00.asp
+
+
+
+Hacking, Ubuntu, to Improve, Performance
+

@@ -1,0 +1,19 @@
+---
+layout: post
+title: tasitasin.com bir girişim hikayesi
+---
+
+h1. {{ page.title }}
+
+p(meta). 20 July 2011 - Ankara
+
+<p><blockquote>
+<p class="MsoNormal">Taşıtaşın.com evden eve nakliyat sektörünü internete taşıyor.  Taşıtaşın.com Taşınmak isteyenler için en uygun fiyat ve hizmeti açık  azaltma ihale sistemi kullanarak müşteriye ulaştırıyor.Bu şekilde  nakliyat firmaları ile taşınma taleplerini eşleştiriliyor.</p>
+<p class="MsoNormal"> Türkiye’de günde 1500 tane gayrimenkul satılıyor. 3000 gayrimenkul  kiralanıyor. Toplamda 4500 tane taşıma talebi mevcut.Sürecin en hızlı ve  uygun fiyata işlemesi için internette rakipsiz bir sistem kuruldu.  Taşıma işlerinin yüzde 60`ı İstanbul, Ankara, İzmir bulunuyor.</p>
+<p class="MsoNormal"> Taşıma firmaları için müşteriler kaç oda taşıtmak istediklerine, eşya  sayısına ve odalarının fotoğraflarına kadar paylaşabiliyor. Bu bilgiler  verimli fiyat teklifi verilmesi konusunda önemli bir rol oynuyor.</p>
+<p class="MsoNormal"> Sistem çok basit. Taşınmak isteyen müşteriler bilgilerini  dolduruyorlar. Bilgiler otomatik olarak ihale halinde açılıyor. Nakliyat  firmaları fiyat teklifi vererek fiyat azaltıyorlar. En düşük 3 fiyat  veren firma bilgileri müşteriye gidiyor. Müşteri üç firma arasından en  uygun olanı seçiyor bu sistem şu an bütün kullanıcılara açık.</p>
+<p class="MsoNormal"> Sizi hızlı taşıma ve uygun fiyata taşıma için ‘<a title="www.tasitasin.com" href="http://www.tasitasin.com"><a href="http://www.tasitasin.com">www.tasitasin.com</a></a>’a bekliyoruz.</p>
+</blockquote></p>
+
+taşı, taşın, nakliyat, evden eve, evden, eve, taşınma, taşınmak istiyorum, taşınacam, taşınacağım, nakliye, taşıma
+

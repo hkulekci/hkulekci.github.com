@@ -1,0 +1,13 @@
+---
+layout: post
+title: TweetSozluk
+---
+
+h1. {{ page.title }}
+
+p(meta). 7 August 2011 - Ankara
+
+<p>Twitter da yazdığınız tweetleri kullanarak belli konularda fikir beyan edebileceğiniz bir sözlük. Güzel alımlı demeyeceğim çünkü beta aşamasında. Beta aşamasını aştıktan sonra bilayre eleştirilere açılacağız gibi. Bir de siz tadına bakın isterseniz <a href="http://tweetsozluk.com">http://tweetsozluk.com</a></p>
+
+
+

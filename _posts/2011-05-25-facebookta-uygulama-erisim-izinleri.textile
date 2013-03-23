@@ -1,0 +1,15 @@
+---
+layout: post
+title: Facebook'ta uygulama erişim izinleri
+---
+
+h1. {{ page.title }}
+
+p(meta). 25 May 2011 - Ankara
+
+<p>Facebook connect ile bağlandığınız baz ısitelerden sonralarda sıkılıp artık bu site ile bağlantımı kesmem gerekli dediğiniz de bunu yapmak için bir twitter&#8217;daki gibi üç tık yeterli olmayabiliyor. Ama dört-beş tık yeterli oluyor sanırım.</p>
+
+<p>Bunun için &#8220;Gizlilik Ayarları-&gt;Uygulamalar ve İnternet Siteleri Ayarlarını Düzenle -&gt; Kullandığın uygulamalar&#8221; bağlantı dizisi bize çok yardımcı oluyormuş.</p>
+
+
+

@@ -1,0 +1,17 @@
+---
+layout: post
+title: Gmail Connected Account 
+---
+
+h1. {{ page.title }}
+
+p(meta). 27 June 2011 - Ankara
+
+<p>Şöyle bir şey ile karşılaştım.</p>
+<blockquote>
+<p><img src="http://www.sprachzeitungen.de/pic/warenkorb/icon_checkbox.gif" height="13" width="13" align="absmiddle"/>  Use my Google contact information to suggest accounts from other sites.</p>
+</blockquote>
+<p>Belki dedim kullanıcılar bu checkbox&#8217;ı doldurmak istemiyordur. önerilmek istemiyordur. Default olarak dolu gelen bazı checkbox&#8217;ları hiç sevmiyorum.</p>
+
+
+

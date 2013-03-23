@@ -1,0 +1,19 @@
+---
+layout: post
+title: The Dusty Programmer: 5 Alternatives to GoDaddy
+---
+
+h1. {{ page.title }}
+
+p(meta). 12 July 2011 - Ankara
+
+http://www.mahdiyusuf.com/post/7521009923/5-alternatives-to-godaddy
+
+<p><a href="http://www.mahdiyusuf.com/post/7521009923/5-alternatives-to-godaddy">dustyprogrammer</a>:</p>
+<blockquote>
+<p>I am sucker for marketing as much as the next guy, so when I am being bombarded with Go Daddy adverts everywhere, where do you think I am going to go, when I want to buy a domain?</p>
+<p>So, like the sheep I am I end up going to Go Daddy and before I even give them my money, I feel like I am signing&#8230;</p>
+</blockquote>
+
+
+

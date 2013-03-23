@@ -1,0 +1,15 @@
+---
+layout: post
+title: Git for Subversion users, Part 1: Getting started
+---
+
+h1. {{ page.title }}
+
+p(meta). 5 May 2011 - Ankara
+
+http://www.ibm.com/developerworks/linux/library/l-git-subversion-1/
+
+
+
+Git for Subversion users, Part 1: Getting started
+

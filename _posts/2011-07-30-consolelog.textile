@@ -1,0 +1,13 @@
+---
+layout: post
+title: Console.log()
+---
+
+h1. {{ page.title }}
+
+p(meta). 30 July 2011 - Ankara
+
+<p> Console.log için undefined method hatası alabildiğimiz durumlar da olabiliyormuş.  Onları comment etmekte hayır var gibi.</p>
+
+
+

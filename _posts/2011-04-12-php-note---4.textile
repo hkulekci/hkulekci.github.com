@@ -1,0 +1,13 @@
+---
+layout: post
+title: PHP Note - 4
+---
+
+h1. {{ page.title }}
+
+p(meta). 12 April 2011 - Ankara
+
+<p>The <code>static</code> keyword was introduced with PHP 5. It cannot be used in PHP 4.</p>
+
+
+

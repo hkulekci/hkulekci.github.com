@@ -1,0 +1,26 @@
+---
+layout: post
+title: Üçüncünün olmaması dileğiyle
+---
+
+h1. {{ page.title }}
+
+p(meta). 28 April 2011 - Ankara
+
+<p>Eposta yollarken dikkat edilmesi gerekenleri kendime vurgulamak amaçlı olarak burada yazma gereğini hissettim. Aşağıdaki listeyi sizde kullanabilirisiniz. Gönder tuşuna basmadan önce bu listeyi kontrol etmek hayra alamet olabilir.</p>
+<p>- Bu epostayı göndermekte ısrarcı mısın?</p>
+<p>- Giriş kısmın düzgün mü?</p>
+<p>- Metni bir kez daha okudun mu?</p>
+<p>- Kapanış metnin var ise onu tekrar kontrol ettin mi?</p>
+<p>- Mailin sonuna seni belirtecek imzanı attın mı?</p>
+<p>- *Birden fazla kişiye aynı maili yolluyorsan bu mail adreslerini CC/BCC ye koydun mu?</p>
+<p>- Göndereceğin posta adres(ler)ini ekledin mi?</p>
+<p>- (Daha önemlisi) CC/BCC&#8217;ye yazılıp yazımadığına doğru karar verdin mi?</p>
+<p>- Sen bilirsin yolla o vakit maili.</p>
+
+<p>Sıkıntım anlaşılmıştır sanırım :D</p>
+
+<p>*Not: Bu soru çok mühim. Bu sorunun cevabı hayır ise bu maili yazma paşa paşa hayatına devam et.</p>
+
+email, yollamanın, kuralları, dikkat, edilmesi, gereken, hususlar, mail yollamadan, önce
+

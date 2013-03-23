@@ -1,0 +1,15 @@
+---
+layout: post
+title: InnoDB Hot Backup Manual
+---
+
+h1. {{ page.title }}
+
+p(meta). 22 May 2011 - Ankara
+
+http://www.innodb.com/doc/hot_backup/manual.html
+
+
+
+
+

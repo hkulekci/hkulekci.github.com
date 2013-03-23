@@ -1,0 +1,15 @@
+---
+layout: post
+title: Google does not use the keywords meta tag in web ranking Monday
+---
+
+h1. {{ page.title }}
+
+p(meta). 21 June 2011 - Ankara
+
+http://googlewebmastercentral.blogspot.com/2009/09/google-does-not-use-keywords-meta-tag.html
+
+<p>Vay arkadaş olaylardan geri kalmak böyle bir şey olsa gerek.</p>
+
+google, not use, keywords, meta tag, meta, tag
+

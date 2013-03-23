@@ -1,0 +1,15 @@
+---
+layout: post
+title: Scanf.info geri döndü
+---
+
+h1. {{ page.title }}
+
+p(meta). 22 April 2011 - Ankara
+
+<p>Aslında bundan önce bir &#8220;PHP Notes&#8221; serisine yazı eklemem gerekiyordu ancak bu arada scanf.info alan adı ile tumblr ilişkisini sağlamak için çalışmalar yaptım ve bunlarıda yazmadan edemeyeceğim.</p>
+<p>Şu anda godaddy&#8217;den domain&#8217;in yanında verilen &#8220;free hosting&#8221; paketi ile tumblr blogumu scanf.info olarak kullanıyorum.</p>
+<p>Teşekkürler <a title="tumblr" target="_blank" href="http://tumblr.com">tumblr</a>.</p>
+
+
+

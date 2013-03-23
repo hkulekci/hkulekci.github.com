@@ -1,0 +1,14 @@
+---
+layout: post
+title: For Mobile
+---
+
+h1. {{ page.title }}
+
+p(meta). 22 June 2011 - Ankara
+
+<p>Links&#160;:</p>
+<p><a href="http://jquerymobile.com/">http://jquerymobile.com/</a><br/><a href="http://www.jqtouch.com/">http://www.jqtouch.com/</a></p>
+
+
+

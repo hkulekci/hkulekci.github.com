@@ -1,0 +1,23 @@
+---
+layout: post
+title: Git Is Simpler Than You Think
+---
+
+h1. {{ page.title }}
+
+p(meta). 11 September 2011 - Ankara
+
+<p><a href="http://nfarina.com/post/9868516270/git-is-simpler">nfarina</a>:</p>
+<blockquote>
+<p>It was about one year ago that we switched to Git. Previously, we used Subversion, through the Mac app <a href="http://versionsapp.com">Versions</a>, which (rightly) holds an Apple Design Award.</p>
+<p><img src="http://cl.ly/1w3c282U1I34073u0W3D/screen2.png"/></p>
+<p>I made the executive decision to leave our comfy world of Versions because it seemed clear that Git was winning the Internet. There was much grumbling from my teammates, who were busy enough doing actual work thank you very much.</p>
+<p>But I pressed forward. We signed up for accounts on <a href="http://github.com">Github</a>. We learned how to type <code>'git push'</code> and <code>'git pull'</code>. We became more confident. Git is just like any other source control system! But it wasn’t long before one of our devs called me over to look at a…situation.</p>
+<p><a href="http://nfarina.com/post/9868516270/git-is-simpler">Read More</a></p>
+
+</blockquote>
+<p>Extra link about git&#160;: <a href="http://whygitisbetterthanx.com/">http://whygitisbetterthanx.com/</a></p>
+<blockquote></blockquote>
+
+
+

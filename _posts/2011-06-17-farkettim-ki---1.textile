@@ -1,0 +1,13 @@
+---
+layout: post
+title: farkettim ki - 1
+---
+
+h1. {{ page.title }}
+
+p(meta). 17 June 2011 - Ankara
+
+<p>Farkettim ki jQuery serialize methodunu kullanmadan önce formdaki bütün elemanların name attribute&#8217;i var mı diye kontrol etmek gerekiyormuş.</p>
+
+
+

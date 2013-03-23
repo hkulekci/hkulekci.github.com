@@ -1,0 +1,11 @@
+---
+layout: post
+title: uygunSeçim
+---
+
+h1. {{ page.title }}
+
+p(meta). 13 April 2011 - Ankara
+
+
+

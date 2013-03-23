@@ -1,0 +1,17 @@
+---
+layout: post
+title: Understanding Unix Permissions
+---
+
+h1. {{ page.title }}
+
+p(meta). 23 April 2011 - Ankara
+
+http://www.library.yale.edu/wsg/docs/permissions/
+
+<h3>What Do Permissions Do?</h3>
+<p>Permissions determine which users can read, write or execute the files that you own. In the case of directories, they determine which users can access, delete or list the contents of  directories that you own.</p>
+<p>&#8230;&#8230;.</p>
+
+
+

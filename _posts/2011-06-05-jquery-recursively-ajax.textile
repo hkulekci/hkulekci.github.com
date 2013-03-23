@@ -1,0 +1,17 @@
+---
+layout: post
+title: Jquery Recursively Ajax
+---
+
+h1. {{ page.title }}
+
+p(meta). 5 June 2011 - Ankara
+
+https://gist.github.com/1008839
+
+<p>Denedim ama olmadı sanırım. Denemeye devam.</p>
+<p>
+<script src="https://gist.github.com/1008839.js?file=async_ajax.js"></script></p>
+
+
+

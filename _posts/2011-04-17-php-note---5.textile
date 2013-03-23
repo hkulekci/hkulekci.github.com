@@ -1,0 +1,15 @@
+---
+layout: post
+title: PHP Note - 5
+---
+
+h1. {{ page.title }}
+
+p(meta). 17 April 2011 - Ankara
+
+<p>An abstract class cannot be instantiated and an abstract method cannot have an implementation. And if I were to create a class derived from <code>AbstractClass</code> that does not implement the <code>AbstractMethod()</code> metdhod like this: </p>
+<p><code>class AClass extends AbstractClass{}</code></p>
+<p>this gives us error.</p>
+
+
+

@@ -1,0 +1,21 @@
+---
+layout: post
+title: Peki bunca şeyden sonra neden insanlar heveslerini yitirir
+---
+
+h1. {{ page.title }}
+
+p(meta). 15 June 2011 - Ankara
+
+<p>Herşey lisede bir meslek seçme yarışına girdiğimde başladı. O zamanlar meslek nedir bilmiyordum açıkçası. Bir arkadaşımdan duyduğum bir meslek ya da babamın söylediği bir meslekten öteye gidemiyordum. İnterneti düzgün kullanamıyor kitapları yarım bırakıyordum. Seçtim. Bİlmiyorum belkide seçmek zorunda kaldım. Seçtirildim.</p>
+<p>Sonra üniversiteli oldum. Değil mi sende oldun. Sende benim gibi hazırlık sınıfını seçip bir seneni gezerek geçirdin. Harcadım da diyemiyorsun şimdi. Güzel de oldu diyemiyorsun. Peki neden? Neden var aklımda bu çelişki demiyormuyuz çoğumuz.</p>
+<p>Sonra birinci sınıfta güzel derslerime çalışarak geçirdiğim bir sene geldi karşıma. Herkes için böyle değil midir? Şunu duyar gibiyim. Değildir. Kimisi baştan bırakmıştır. Çünkü sevmiyordur mesleğini. Kimisi halen olayların farkına varamamıştır. Hazırlık bitmiştir. Bende geçte olsa farkına vardım. Bir sene mi c dilini öğrenerek, siyah beyaz ekrana &#8220;*&#8221; işaretinden şekiller çizdirerek geçirdim. Şu soruyu sordum sonra kendime niye biz Java görmedik.</p>
+<p>İkinci sınıf daha eğlenceliydi. Biraz can sıkıntısı biraz şirket kurma hevesleri derken. Birinci sınıfın yaz aylarından gelen ılıman rüzgarla biraz üşüttüm heralde. Gaz da var gençliğin verdiği. O rüzgar halen sanki kafamın içinde dolaşıyor. Geldi geçti bir sene ne olduğunu anlamadan. Bir kaç dersten de çaktıktan sonra dersten kalmayı da öğrenmiş olduk.</p>
+<p>Beşinci dönem altıncı dönem derken artık sınıf kavramı ortadan kalktı. Dönem girdi işin içine. Niye mi biliyorsun sen &#8220;sayın dinleyen&#8221;, biliyorsun. Okul uzadı işte. Şimdi şu cümleyi kurmak isterim &#8220;Okul bir kaç dersten bildiğin halde sınavda ezber yeteneğin olmadığı için kaldı.&#8221; Değil. Kendini kandırmak bu. Çalışmadım. Çalışmadık. Normalde de çalışmıyorduk zaten.</p>
+<p>Artık dönem sınırlarını zorlarken çoğumuzun aklından geçen şu soruyu soruyorum kendime. Bu eziyet niye? Niye arkadaş?</p>
+<p>İşte insan bu gibi düşüncelere kapılır sonra hevesi kaçar. Hayattan soğur. İstediklerini yapamamaya başlar. Başkalarına suç atar. Olayları çarpıtır. Kendinden geçer.</p>
+<p>Son söz: <a href="http://productiveblog.tumblr.com/">http://productiveblog.tumblr.com/</a></p>
+<p>Sayın abime saygılar :D</p>
+
+
+

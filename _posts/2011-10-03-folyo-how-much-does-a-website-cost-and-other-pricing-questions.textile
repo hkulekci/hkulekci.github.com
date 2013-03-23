@@ -1,0 +1,19 @@
+---
+layout: post
+title: Folyo: "How much does a website cost?" and other pricing questions
+---
+
+h1. {{ page.title }}
+
+p(meta). 3 October 2011 - Ankara
+
+http://blog.folyo.me/post/10723370923/how-much-does-a-website-cost
+
+<p><a href="http://blog.folyo.me/post/10723370923/how-much-does-a-website-cost">folyo</a>:</p>
+<blockquote>
+<p>If there’s one thing nobody seems to want to talk about, it’s pricing. Most designers don’t publish their rates, and good luck getting a company to tell you how much they paid for their site.</p>
+<p>The results of this situation is that it can be pretty hard to know how much to spent on design. Spend&#8230;</p>
+</blockquote>
+
+
+

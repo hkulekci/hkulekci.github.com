@@ -1,0 +1,14 @@
+---
+layout: post
+title: MacOsx'in Vmware'da tadı yok
+---
+
+h1. {{ page.title }}
+
+p(meta). 12 April 2011 - Ankara
+
+<p>Yok bir tat alamadım. Açıyorum güzel ekran ekran geliyor ancak birşeyler kurarken kaldırırken Windows&#8217;daki gibi eziyet çekeceksem ne farkı var. Üstte Ctrl+D / G tuş kombinasyonlarına basmam için yalvaran bir uyarı var bi kere, insanı fıtık etmek için birebir.</p>
+<p>Mac mini&#8217;ye göz diktim gibi. <a href="http://www.apple.com/macmini/">http://www.apple.com/macmini/</a> buna bakacaz. bi de ipod/iphone hayali vardı. Etti mi sana iki. Hadi hayırlısı bakalım.</p>
+
+
+
