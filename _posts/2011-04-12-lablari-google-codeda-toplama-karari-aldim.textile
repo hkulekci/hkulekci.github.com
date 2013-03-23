@@ -1,0 +1,15 @@
+---
+layout: post
+title: Labları Google Code'da toplama kararı aldım
+---
+
+h1. {{ page.title }}
+
+p(meta). 12 April 2011 - Ankara
+
+http://kulekci.net
+
+<p><a href="http://mylab-kulekci.googlecode.com/">http://mylab-kulekci.googlecode.com/</a></p>
+
+
+

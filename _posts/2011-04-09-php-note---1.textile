@@ -1,0 +1,13 @@
+---
+layout: post
+title: PHP Note - 1
+---
+
+h1. {{ page.title }}
+
+p(meta). 9 April 2011 - Ankara
+
+<p>PHP 4 does not recognize visibility keywords for methods or properties. if add private or protected, will cause fatal error. in PHP 4, all methods are implicitly public.</p>
+
+
+

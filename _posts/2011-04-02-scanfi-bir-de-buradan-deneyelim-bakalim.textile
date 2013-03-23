@@ -1,0 +1,13 @@
+---
+layout: post
+title: Scanf'i bir de buradan deneyelim bakalım.
+---
+
+h1. {{ page.title }}
+
+p(meta). 2 April 2011 - Ankara
+
+<p>denedik.</p>
+
+
+

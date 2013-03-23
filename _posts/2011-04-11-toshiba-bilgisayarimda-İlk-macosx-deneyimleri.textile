@@ -1,0 +1,15 @@
+---
+layout: post
+title: Toshiba Bilgisayarımda İlk MacOsx Deneyimleri
+---
+
+h1. {{ page.title }}
+
+p(meta). 11 April 2011 - Ankara
+
+<p>Bilgisayarıma MacOsx&#8217;i kurmak için bütün diskimi heba etmedim tabiki de. Vmware derdime çare oldu. Bilgisayarım Toshiba Satellite R630-105. Evet bildiğiniz i3 işlemcili bir laptop. 2gb ramli bir sanal makine oluşturdum ve hardiskinede 20gb lik iki part olarak oluşturdum. Güzel bir deneyim oldu. Kurduğum MacOsx 10.5.2 versiyonu. Daha ilerisini kurabilirmiyim denemedim daha ama şu söylemeliyim ki twitter açılmıyor Safari&#8217;de. Hal böyle olunca yenisini ykleyim diye uğraşıyorsunuz. Safari 5 ve 4.1.3 Tiger&#8217;i kabullenemiyor işletim sistemi. Bakalım daha neler göreceğiz. </p>
+
+<p>Düzenleme: @ işaretini atmakta zorlandım. altgr+Q yaptığımda uygulamayı kapattığını tamamen heyecanımdan dolayı unutmam üzerine komik anlat yaşadım 3-5 saniye. Sonrasında (Windows Tuşu)+Q kombinasyonu ile olay çözüldü. </p>
+
+
+

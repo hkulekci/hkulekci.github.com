@@ -1,0 +1,19 @@
+---
+layout: post
+title: 6 Phases of a Project (joke)
+---
+
+h1. {{ page.title }}
+
+p(meta). 12 April 2011 - Ankara
+
+<p><ol><li> Enthusiasm </li>
+<li> Disillusionment </li>
+<li> Panic </li>
+<li> A Search for the Guilty </li>
+<li> The Punishment of the Innocent </li>
+<li> Praise and Honor for the Non-Participants</li>
+</ol></p>
+
+
+

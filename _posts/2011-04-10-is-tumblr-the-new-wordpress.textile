@@ -1,0 +1,17 @@
+---
+layout: post
+title: Is Tumblr the New Wordpress
+---
+
+h1. {{ page.title }}
+
+p(meta). 10 April 2011 - Ankara
+
+http://wpcandy.com/thinks/is-tumblr-the-new-wordpress
+
+<blockquote>
+<p><span>…[We] just want a blog we can easily theme and post to, not [run] a site primary off it. WordPress is over-complicated over-kill for this, Tumblr works fine and is much easier to deal with…</span></p>
+</blockquote>
+
+
+

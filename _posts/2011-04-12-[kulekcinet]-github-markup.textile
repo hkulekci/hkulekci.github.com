@@ -1,0 +1,15 @@
+---
+layout: post
+title: [kulekci.net] Github Markup
+---
+
+h1. {{ page.title }}
+
+p(meta). 12 April 2011 - Ankara
+
+http://kulekci.net/2011/04/11/github-markup/
+
+<p>kulekci.net adresinden yeni yazımızı hayata publish ettik. hadi bakalım hayırlısı.</p>
+
+
+

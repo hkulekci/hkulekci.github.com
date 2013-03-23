@@ -1,0 +1,23 @@
+---
+layout: post
+title: PHP Note - 2
+---
+
+h1. {{ page.title }}
+
+p(meta). 10 April 2011 - Ankara
+
+<p><span class="methodname"><strong>__construct() </strong>method does not work on PHP 4. if you want to use on PHP 4, you can create a constructor by declaring a method with the same name as the class. For example:</span></p>
+<p><span class="methodname"> <code> </code></span></p>
+<pre><code>namespace Foo;
+class Bar {
+    public function Bar() {
+        // treated as constructor in PHP 5.3.0-5.3.2
+        // treated as regular method as of PHP 5.3.3
+    }
+}
+</code></pre>
+<p><code> </code></p>
+
+
+

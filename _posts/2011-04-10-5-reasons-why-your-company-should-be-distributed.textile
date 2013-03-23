@@ -1,0 +1,15 @@
+---
+layout: post
+title: 5 reasons why your company should be distributed
+---
+
+h1. {{ page.title }}
+
+p(meta). 10 April 2011 - Ankara
+
+http://toni.org/2010/03/08/5-reasons-why-your-company-should-be-distributed/
+
+
+
+
+
