@@ -1,0 +1,27 @@
+---
+layout: post
+title: Git
+---
+
+h1. {{ page.title }}
+
+p(meta). 30 January 2013 - Ankara
+
+<p>Git hakkında daha önceden yazdığım ya  da linklerini kaydettiğim bazı yazıları bir yerde toparlayayım dedim ve bakalaım ne kadar yazmışım&#160;: </p>
+<ul><li>Git Push the File - <a href="http://scanf.info/post/6914321785/github-push-the-file">http://scanf.info/post/6914321785/github-push-the-file</a></li>
+<li>Git for Subversion users, Part 1: Getting started - <a href="http://scanf.info/post/5224719072/git-for-subversion-users-part-1-getting-started">http://scanf.info/post/5224719072/git-for-subversion-users-part-1-getting-started</a></li>
+<li>How to commit my current changes to a different branch in git - <a href="http://scanf.info/post/38972055301/how-to-commit-my-current-changes-to-a-different-branch">http://scanf.info/post/38972055301/how-to-commit-my-current-changes-to-a-different-branch</a></li>
+<li>Pull Request Last Commit - <a href="http://scanf.info/post/37906088040/pull-request-last-commit">http://scanf.info/post/37906088040/pull-request-last-commit</a></li>
+<li>How do I reset/revert a specific file to a specific revision using Git? - <a href="http://scanf.info/post/37907330415/how-do-i-reset-revert-a-specific-file-to-a-specific">http://scanf.info/post/37907330415/how-do-i-reset-revert-a-specific-file-to-a-specific</a></li>
+<li>Some notes for Git - <a href="http://scanf.info/post/33223993245/some-notes-for-git">http://scanf.info/post/33223993245/some-notes-for-git</a></li>
+<li>CentOS 6 git Setup - <a href="http://scanf.info/post/32802392152/centos-6-git-setup">http://scanf.info/post/32802392152/centos-6-git-setup</a></li>
+<li>Update a Github Fork from the Original Repo - <a href="http://scanf.info/post/30089509191/update-a-github-fork-from-the-original-repo">http://scanf.info/post/30089509191/update-a-github-fork-from-the-original-repo</a></li>
+<li>Git Is Simpler Than You Think - <a href="http://scanf.info/post/10075603420/git-is-simpler-than-you-think">http://scanf.info/post/10075603420/git-is-simpler-than-you-think</a></li>
+<li>Git - <a href="http://scanf.info/post/18371714168/git">http://scanf.info/post/18371714168/git</a></li>
+<li>Git untracked File - <a href="http://scanf.info/post/20307495557/git-untracked-file">http://scanf.info/post/20307495557/git-untracked-file</a></li>
+<li>git tag tutorial - <a href="http://scanf.info/post/41778759209/git-tag-tutorial">http://scanf.info/post/41778759209/git-tag-tutorial</a></li>
+<li>tagging - <a href="http://scanf.info/post/22339258329/tagging">http://scanf.info/post/22339258329/tagging</a></li>
+</ul>
+
+
+

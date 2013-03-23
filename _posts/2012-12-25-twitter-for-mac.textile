@@ -1,0 +1,16 @@
+---
+layout: post
+title: Twitter For Mac
+---
+
+h1. {{ page.title }}
+
+p(meta). 25 December 2012 - Ankara
+
+<p>Aşağıdaki metni Twitter For Mac üzerinden paylaşmak istediğimde undefined diye bir hata aldım. Aynı metni twitter web uygulaması üzerinden paylaşmaya çalıştığımda ise counter -11 olarak gösterdi. Normalde 132 karakter. </p>
+<blockquote>
+<p>fatal: unable to connect to github.com: github.com[0: 207.97.227.239]: errno=Operation timed out =&gt; wrong remote url  #fatal #error</p>
+</blockquote>
+
+
+

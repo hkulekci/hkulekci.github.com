@@ -1,0 +1,15 @@
+---
+layout: post
+title: Test Your App Under Slow Network Speeds
+---
+
+h1. {{ page.title }}
+
+p(meta). 1 February 2013 - Ankara
+
+http://juristr.com/blog/2013/02/test-your-app-under-slow-network-speeds/
+
+
+
+
+

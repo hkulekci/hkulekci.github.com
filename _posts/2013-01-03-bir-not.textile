@@ -1,0 +1,14 @@
+---
+layout: post
+title: Bir not...
+---
+
+h1. {{ page.title }}
+
+p(meta). 3 January 2013 - Ankara
+
+<p>Bir web projesinde dosya barındıracaksanız ya da barındırılacaksa dosya isimlerinde türkçe karakter veya boşluk kullanılmaması yönünde çevrenizdeki herkesi uyarın. Uyarmak çoğu zaman yetmiyor. Dosya yükledikten sonra türkçe karakterli ya da içerisinde boşluk karakteri bulunan klasörler var ise tekrar uyarın ve düzelttikten sonra böyle olmalı diye gösterin. Büyük ihtimalle bir şekilde oraya türkçe karakterli dosyalar girecektir.</p>
+<p>Bu durumda dosyaları sunucular arasında taşıyacaksanız, hiç uğraşmadan bir kutu hap için uyuyun. ( Bu son kısım sadece şaka. Anladınız değil mi şaka olduğunu. )</p>
+
+
+

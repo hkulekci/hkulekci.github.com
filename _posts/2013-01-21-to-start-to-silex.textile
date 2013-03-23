@@ -1,0 +1,19 @@
+---
+layout: post
+title: to start to Silex
+---
+
+h1. {{ page.title }}
+
+p(meta). 21 January 2013 - Ankara
+
+<p><ul><li>Silex - (<a href="http://silex.sensiolabs.org/">link</a>)</li>
+<li>Silex Documentation - (<a href="http://silex.sensiolabs.org/documentation">link</a>)</li>
+<li>Silex: getting your project structure right - (<a href="http://php-and-symfony.matthiasnoback.nl/2012/01/silex-getting-your-project-structure-right/">link</a>)</li>
+<li>Silex i18n Routing - (<a href="http://dev.umpirsky.com/silex-i18n-routing/">link</a>)</li>
+<li>Silex micro-framework and Twig: enable debug - (<a href="http://stackoverflow.com/questions/9196308/silex-micro-framework-and-twig-enable-debug">link</a>)</li>
+<li>&#8230;</li>
+</ul></p>
+
+
+

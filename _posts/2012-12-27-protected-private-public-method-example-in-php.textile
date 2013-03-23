@@ -1,0 +1,13 @@
+---
+layout: post
+title: Protected, Private, Public Method Example in PHP
+---
+
+h1. {{ page.title }}
+
+p(meta). 27 December 2012 - Ankara
+
+<p><script src="https://gist.github.com/4386618.js" type="text/javascript"></script></p>
+
+
+

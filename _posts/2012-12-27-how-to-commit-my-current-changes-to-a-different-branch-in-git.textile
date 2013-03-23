@@ -1,0 +1,15 @@
+---
+layout: post
+title: How to commit my current changes to a different branch in git
+---
+
+h1. {{ page.title }}
+
+p(meta). 27 December 2012 - Ankara
+
+http://stackoverflow.com/a/2945904/721600
+
+<p>i finally found this.</p>
+
+
+

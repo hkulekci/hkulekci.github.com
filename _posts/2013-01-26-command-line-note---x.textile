@@ -1,0 +1,18 @@
+---
+layout: post
+title: Command Line Note - X
+---
+
+h1. {{ page.title }}
+
+p(meta). 26 January 2013 - Ankara
+
+<p>Find all php files and change their permission as 644</p>
+<p>find /directory/ -type f -name &#8220;*.php&#8221; -print | xargs chmod 644</p>
+<p>Find all directories and change their perssion as 755</p>
+<p>find /path/to/base/dir -type d -print | xargs chmod 755</p>
+<p>Edit&#160;: You should do it as root.</p>
+<p><em>Source&#160;: <a href="http://superuser.com/a/91938/153780">http://superuser.com/a/91938/153780</a></em></p>
+
+
+

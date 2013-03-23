@@ -1,0 +1,39 @@
+---
+layout: post
+title: git tag tutorial
+---
+
+h1. {{ page.title }}
+
+p(meta). 29 January 2013 - Ankara
+
+<div class="edit-comment-hide">
+<div class="js-comment-body comment-body markdown-body markdown-format context-loader-overlay">
+<p>First of all, you can create a tag when you change a version with following codes.</p>
+<pre><code>git tag -a v1.5.5 -m "my version 1.5.5"
+git push origin v1.5.5 
+</code></pre>
+<p>After that, You can commit with default way.</p>
+<pre><code>git add files 
+git commit -m 'message'
+git push origin master/branches
+</code></pre>
+<p>Then, you can create a new tag with same way when the version will changed.</p>
+<div class="edit-comment-hide">
+<div class="js-comment-body comment-body markdown-body markdown-format context-loader-overlay">
+<p>if you want to send a commit specific tag ot project, you can use following codes&#160;:</p>
+<pre><code>git checkout tags/v1.5.5 
+git add files
+git commit -m 'message'
+git tag -a v1.5.5.1 -m 'message'
+git push origin v1.5.5.1
+</code></pre>
+<p>it is not easy, but I think it can be done.</p>
+<p>Source&#160;: <a href="https://github.com/opencart/opencart/issues/398">https://github.com/opencart/opencart/issues/398</a></p>
+</div>
+</div>
+</div>
+</div>
+
+git, tag
+

@@ -1,0 +1,21 @@
+---
+layout: post
+title: Zend Server on MacOSx
+---
+
+h1. {{ page.title }}
+
+p(meta). 22 December 2012 - Ankara
+
+<p>Web sharing httpd is running when i restart my macbook and zend server apachectl can not run. It returns me error like following errors:</p>
+<blockquote>
+<p>(48)Address already in use: make_sock: could not bind to address [::]:80</p>
+</blockquote>
+<p>I searched to solve this problem and i found something. Execute following codes on terminal to remove default Web Sharing server from startup on Mac OSx. </p>
+<blockquote>
+<p>sudo launchctl unload -w /System/Library/LaunchDaemons/org.apache.httpd.plist</p>
+</blockquote>
+<p>After that restart your computer. Thats all.</p>
+
+
+

@@ -1,0 +1,13 @@
+---
+layout: post
+title: Image Masking
+---
+
+h1. {{ page.title }}
+
+p(meta). 16 January 2013 - Ankara
+
+<p><a href="http://www.web-design-talk.co.uk/examples/10/static/index.php">http://www.web-design-talk.co.uk/examples/10/static/index.php</a></p>
+
+
+

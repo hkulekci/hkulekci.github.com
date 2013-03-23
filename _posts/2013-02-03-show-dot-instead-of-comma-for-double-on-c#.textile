@@ -1,0 +1,14 @@
+---
+layout: post
+title: show dot instead of comma for double on C#
+---
+
+h1. {{ page.title }}
+
+p(meta). 3 February 2013 - Ankara
+
+<p>Use following codes to show dot instead of comma for doubles of all of the application</p>
+<p>Application.CurrentCulture = System.Globalization.CultureInfo.CreateSpecificCulture(&#8220;en-US&#8221;);</p>
+
+c, number, double, culture
+

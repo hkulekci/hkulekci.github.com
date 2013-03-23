@@ -1,0 +1,15 @@
+---
+layout: post
+title: A note
+---
+
+h1. {{ page.title }}
+
+p(meta). 10 January 2013 - Ankara
+
+http://php.net/manual/en/function.json-decode.php#example-3627
+
+<p>A note about json_decode function on PHP.</p>
+
+
+

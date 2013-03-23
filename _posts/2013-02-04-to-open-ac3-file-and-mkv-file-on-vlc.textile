@@ -1,0 +1,14 @@
+---
+layout: post
+title: To open ac3 file and mkv file on VLC
+---
+
+h1. {{ page.title }}
+
+p(meta). 4 February 2013 - Ankara
+
+<p>Use following lines to open ac3 file and mkv file on VLC</p>
+<p>/Applications/VLC.app/Contents/MacOS/VLC file.mkv &#8212;input-slave file.ac3</p>
+
+vlc, ac3, mkv, film
+

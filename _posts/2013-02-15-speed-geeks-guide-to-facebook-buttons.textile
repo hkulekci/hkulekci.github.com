@@ -1,0 +1,15 @@
+---
+layout: post
+title: Speed geek’s guide to Facebook buttons
+---
+
+h1. {{ page.title }}
+
+p(meta). 15 February 2013 - Ankara
+
+http://www.phpied.com/speed-geeks-guide-to-facebook-buttons/
+
+
+
+
+

@@ -1,0 +1,14 @@
+---
+layout: post
+title: Patch file on git
+---
+
+h1. {{ page.title }}
+
+p(meta). 10 January 2013 - Ankara
+
+<p>Sources</p>
+<p><a href="https://ariejan.net/2009/10/26/how-to-create-and-apply-a-patch-with-git">https://ariejan.net/2009/10/26/how-to-create-and-apply-a-patch-with-git</a><br/><a href="http://stackoverflow.com/questions/931882/how-to-apply-a-git-patch-from-one-repository-to-another">http://stackoverflow.com/questions/931882/how-to-apply-a-git-patch-from-one-repository-to-another</a><br/><a href="http://stackoverflow.com/questions/1570535/guide-to-understanding-gitk">http://stackoverflow.com/questions/1570535/guide-to-understanding-gitk</a><br/><a href="http://lostechies.com/joshuaflanagan/2010/09/03/use-gitk-to-understand-git/">http://lostechies.com/joshuaflanagan/2010/09/03/use-gitk-to-understand-git/</a></p>
+
+
+

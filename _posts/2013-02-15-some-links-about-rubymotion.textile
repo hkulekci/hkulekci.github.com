@@ -1,0 +1,14 @@
+---
+layout: post
+title: Some Links about RubyMotion
+---
+
+h1. {{ page.title }}
+
+p(meta). 15 February 2013 - Ankara
+
+<p>Ruby motion is a toolchain for iOS. You can develop native iOS application with ruby language via RubyMotion. RubyMotion has rake based workflow. And it is easy to use. Use link <a href="http://www.rubymotion.com/" target="_blank">[1]</a> to start. There ara a documentation for developers and <a href="http://www.rubymotion.com/developer-center/guides/getting-started/" target="_blank">a hello world application</a>. You can follow the news with <a href="http://blog.rubymotion.com/" target="_blank">blog</a>. You can read some articles, reviews, like these <a href="http://merbist.com/2012/05/04/macruby-on-ios-rubymotion-review/" target="_blank">[2]</a>  <a href="http://37signals.com/svn/posts/3432-why-i-loved-building-basecamp-for-iphone-in-rubymotion" target="_blank">[3]</a>, <a href="http://arstechnica.com/business/2012/05/exclusive-building-ruby-ios-applications-with-rubymotion/" target="_blank">[4]</a>, <a href="http://aelogica.com/development/rubymotion-review/" target="_blank">[6]</a>. After that you can follow the some repos from <a href="https://github.com/rubymotion" target="_blank">rubymotion github community</a>.  You find some samples following <a href="https://github.com/HipByte/RubyMotionSamples" target="_blank">[5]</a> link.</p>
+<p>[1] - <a href="http://www.rubymotion.com/developer-center/guides/getting-started/" target="_blank"><a href="http://www.rubymotion.com/">http://www.rubymotion.com/</a></a><br/>[2] - <a href="http://merbist.com/2012/05/04/macruby-on-ios-rubymotion-review/" target="_blank"><a href="http://merbist.com/2012/05/04/macruby-on-ios-rubymotion-review/">http://merbist.com/2012/05/04/macruby-on-ios-rubymotion-review/</a></a><br/>[3] - <a href="http://37signals.com/svn/posts/3432-why-i-loved-building-basecamp-for-iphone-in-rubymotion" target="_blank"><a href="http://37signals.com/svn/posts/3432-why-i-loved-building-basecamp-for-iphone-in-rubymotion">http://37signals.com/svn/posts/3432-why-i-loved-building-basecamp-for-iphone-in-rubymotion</a></a><br/>[4] - <a href="http://aelogica.com/development/rubymotion-review/" target="_blank"><a href="http://aelogica.com/development/rubymotion-review/">http://aelogica.com/development/rubymotion-review/</a></a><br/>[5] - <a href="https://github.com/HipByte/RubyMotionSamples" target="_blank"><a href="https://github.com/HipByte/RubyMotionSamples">https://github.com/HipByte/RubyMotionSamples</a></a><br/>[6] - <a href="http://arstechnica.com/business/2012/05/exclusive-building-ruby-ios-applications-with-rubymotion/" target="_blank"><a href="http://arstechnica.com/business/2012/05/exclusive-building-ruby-ios-applications-with-rubymotion/">http://arstechnica.com/business/2012/05/exclusive-building-ruby-ios-applications-with-rubymotion/</a></a></p>
+
+ruby, motion, rubymotion, source, example, reviews, application, mobile, ios, xcode, obj-c
+
