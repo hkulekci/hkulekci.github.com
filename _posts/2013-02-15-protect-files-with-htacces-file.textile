@@ -1,0 +1,29 @@
+---
+layout: post
+title: protect files with .htacces file 
+---
+
+h1. {{ page.title }}
+
+p(meta). 15 February 2013 - Ankara
+
+You can use following instruction on .htaccess file if you want to protect some files from users.
+
+    List your protect file ( for example : i try to protect my *.tpl, *.log, *.ini, *.txt files)
+    are there any ignore file? (I have a robots.txt file. it was ignored from protection)
+    Create your htaccess
+
+    # Prevent Direct Access to files
+    <FilesMatch “(?i)((.tpl|.ini|.log|(?<!robots).txt))”>
+     Order deny,allow
+     Deny from all
+    </FilesMatch>
+    “Options -Indexes” use to disable directory browsing
+    “IndexIgnore *” use to prevent folder listing
+
+In these case, “(?i)” part of the example is for caseless matching. And “(?<robots).txt” part is for ignori robots.txt file and protecting all the others.
+
+If you want to ignore more file like robots.txt file. You can add like this “(?<robots|test|ignored|file).txt”. Now, users can access robots.txt, test.txt, ignored.txt, file.txt
+
+
+htaccess, filesmatch, files, match, ignore
