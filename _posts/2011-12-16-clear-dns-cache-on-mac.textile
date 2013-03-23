@@ -1,0 +1,14 @@
+---
+layout: post
+title: clear DNS cache on mac
+---
+
+h1. {{ page.title }}
+
+p(meta). 16 December 2011 - Ankara
+
+<p><span>DNS request are usually cached, that’s good as it help to speeds up the lookups within the same host but sometimes we will want to clear the cache so it don’t hold the values that are no longer valid. To clear DNS cache in Mac OSX, we can do it with the help of <strong>Terminal</strong>.</span></p>
+<p><span><span>dscacheutil -flushcache</span></span></p>
+
+
+

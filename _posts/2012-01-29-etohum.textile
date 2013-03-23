@@ -1,0 +1,17 @@
+---
+layout: post
+title: #etohum
+---
+
+h1. {{ page.title }}
+
+p(meta). 29 January 2012 - Ankara
+
+<p>Bir Tweetsozluk ve Viveka üyesi olarak etohum&#8217;a katıldım ve güzel bir etkinlik oldu. Yazımın amacı eTohum&#8217;un bu etkinliği hakkında bilgi vermek değil zaten bu bilgileri etohum&#8217;un sitesinden ya da çeşitli görsel mecralardan elde edebiliyorsunuz. Tweetsozluk ekibi olarak yaptığımız bir araştırmadan bahsedeceğim.</p>
+<p>#etohum hashtag&#8217;ı hakkında&#160;:</p>
+<p>#etohum hashtagı o gün (28.01.2012) twitter trendleri arasında baya bir süre yer aldı. Bir çok kişi #etohum hakkında konuşurken bir çok kişide etohum&#8217;un ne olduğunu anlamaya çalıştı.</p>
+<p>09:50 ile 17:12 saatleri arasında ortalama olarak 2. sırada yer aldı<br/>17:15 ile 17:32 saatleri arasında ortalama olarak yine 2. sırada idi.<br/>17:35 ile 21:13 arasında ortalama olarak 3. sırada yer aldı.</p>
+<p>Günlerdir takip ettiğimiz üzere Türkiye&#8217;de trendler arasında futbol ve magazin dışında böyle bir trend görmekten mutlu olduk. O gün etohum dışında yine konualr oldu ama  etohum ile alakalı olarak &#8220;Tanrılar Okulu&#8221;da twitter üzerinde bir hayli yer tuttu. Bunlar hakkında daha detaylı bilgileri yakın zamanda vermeye devam edeceğiz.</p>
+
+
+

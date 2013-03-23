@@ -1,0 +1,21 @@
+---
+layout: post
+title: Git
+---
+
+h1. {{ page.title }}
+
+p(meta). 27 February 2012 - Ankara
+
+<p>Git için de çokça girip baktığım ya da sonradan hatırlayamadığımı düşündüğüm bir kaç linki buradan paylaşayım. Linkler her zamanki gibi bazı sorunları çözerken ya da sorun bile olmayan bazı şeyleri hatırlamaya çalışırken kullandığım sayfalara ait. Saygılar vesselam.</p>
+<ul><li>$ cheat git - <a href="http://cheat.errtheblog.com/s/git">http://cheat.errtheblog.com/s/git</a></li>
+<li><a href="http://blog.pagebakers.nl/2009/01/29/git-ignoring-changes-in-tracked-files/">http://blog.pagebakers.nl/2009/01/29/git-ignoring-changes-in-tracked-files/</a></li>
+<li><a href="http://www-cs-students.stanford.edu/~blynn/gitmagic/ch04.html">http://www-cs-students.stanford.edu/~blynn/gitmagic/ch04.html</a></li>
+<li><a href="http://stackoverflow.com/a/1338744/721600">http://stackoverflow.com/a/1338744/721600</a></li>
+<li>SIMPLY ABOUT GIT (WITH A STEP-BY-STEP GIT WORKFLOW EXAMPLE) - <a href="http://posheika.net/?p=136">http://posheika.net/?p=136</a></li>
+<li><a href="http://sandofsky.com/blog/git-workflow.html">http://sandofsky.com/blog/git-workflow.html</a></li>
+<li>&#8230;</li>
+</ul>
+
+
+

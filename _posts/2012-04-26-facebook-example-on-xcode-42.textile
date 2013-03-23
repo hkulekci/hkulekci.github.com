@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Facebook Example on XCode 4.2
 ---
 
 h1. {{ page.title }}

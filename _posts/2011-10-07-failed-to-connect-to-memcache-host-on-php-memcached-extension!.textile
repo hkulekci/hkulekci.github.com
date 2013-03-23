@@ -1,0 +1,14 @@
+---
+layout: post
+title: Failed to connect to memcache host on php memcached extension!
+---
+
+h1. {{ page.title }}
+
+p(meta). 7 October 2011 - Ankara
+
+<p>To fix this problem, you can execute following code on terminal.</p>
+<script src="https://gist.github.com/1269745.js?file=gistfile1.sh"></script>
+
+php, memcached, warning, extension
+

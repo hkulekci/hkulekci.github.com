@@ -1,0 +1,15 @@
+---
+layout: post
+title: A Collection of Printable Sketch Templates and Sketch Books for Wireframing
+---
+
+h1. {{ page.title }}
+
+p(meta). 25 January 2012 - Ankara
+
+http://www.geekchix.org/blog/2010/01/03/a-collection-of-printable-sketch-templates-and-sketch-books-for-wireframing/#mobi
+
+
+
+
+

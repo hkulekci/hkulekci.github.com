@@ -1,0 +1,15 @@
+---
+layout: post
+title: Delphi
+---
+
+h1. {{ page.title }}
+
+p(meta). 13 February 2012 - Ankara
+
+ftp://delphi.icm.edu.pl/pub/delphi/
+
+
+
+
+

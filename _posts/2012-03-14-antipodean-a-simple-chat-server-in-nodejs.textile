@@ -1,0 +1,19 @@
+---
+layout: post
+title: Antipodean: A simple chat server in Node.js
+---
+
+h1. {{ page.title }}
+
+p(meta). 14 March 2012 - Ankara
+
+http://dhotson.tumblr.com/post/271733389/a-simple-chat-server-in-node-js
+
+<blockquote>
+<p>I had a quick go at writing a little chat server using <a href="http://nodejs.org/">Node.js</a>.</p>
+<p>I really like Node’s style. I’ve got to say that Javascript suits the evented / non-blocking model really well. Javascript is actually a pretty cool little language.</p>
+<p>Getting started with Node.js was really easy. For me it was as&#8230;</p>
+</blockquote>
+
+
+

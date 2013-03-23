@@ -1,0 +1,20 @@
+---
+layout: post
+title: SQL Saçmalamaca
+---
+
+h1. {{ page.title }}
+
+p(meta). 29 February 2012 - Ankara
+
+<p>Bir field&#8217;daki değerleri baş harfleri büyük geri kalanları küçük olacak şekilde geri kaydetmece.</p>
+<blockquote>
+<p><span>UPDATE `table` SET `field`= CONCAT(UPPER(SUBSTRING(`</span>field <span>`, 1, 1)),  LOWER(SUBSTRING(`</span>field <span>` FROM 2))) WHERE ID = 1 LIMIT 1</span></p>
+</blockquote>
+<p>Auto-increment etmeyi unuttuktan sonra tabloya bir ton veri insert ettikten sonra aşağıdaki satırlar ile ID&#8217;leri artan sırayla update edebiliriz. Daha farklı amaçlar içinde kullanılabilir elbette ki.</p>
+<blockquote>
+<p>SET @pos:=0;<br/>UPDATE `kategoriler` SET `KATEGORIID` = @pos:=@pos+1;</p>
+</blockquote>
+
+
+

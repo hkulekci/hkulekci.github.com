@@ -1,0 +1,23 @@
+---
+layout: post
+title: Git untracked File
+---
+
+h1. {{ page.title }}
+
+p(meta). 1 April 2012 - Ankara
+
+<blockquote>
+<p>There may be times when you want to edit some variables in for example a database connection file, to run an application right from within your GIT repo. Of course you don’t wont those changes to be commited, so you add the file the .gitignore.<br/>However adding tracked files to .gitignore won’t work because GIT will still track the changes and commit the file if you use the<em>-a</em>parameter.</p>
+<p>Fortunately GIT has a very easy solution for this, just run the following command on the file or path you want to ignore the changes of:</p>
+<pre class="brush: plain;">git update-index --assume-unchanged &lt;file&gt;
+</pre>
+<p>If you wanna start tracking changes again run the following command:</p>
+<pre class="brush: plain;">git update-index --no-assume-unchanged &lt;file&gt;
+</pre>
+<p>You can find<a href="http://www.kernel.org/pub/software/scm/git/docs/git-update-index.html">more info about this</a>in the<a href="http://www.kernel.org/pub/software/scm/git/docs/">git manual</a>.</p>
+<p>Happy GITting ;)</p>
+</blockquote>
+
+
+

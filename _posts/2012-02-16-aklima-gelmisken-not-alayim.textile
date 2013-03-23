@@ -1,0 +1,14 @@
+---
+layout: post
+title: Aklıma gelmişken not alayım
+---
+
+h1. {{ page.title }}
+
+p(meta). 16 February 2012 - Ankara
+
+<p><a href="http://stackoverflow.com/questions/2163332/nstimer-with-delegate-method">http://stackoverflow.com/questions/2163332/nstimer-with-delegate-method</a></p>
+<p>adresinde de söylediği gibi &#8220;unrecognized selector sent to instance&#8221; hatası alıyorsanız. Hata ya @selector&#8217;u yazdığınız kısımda &#8220;:&#8221; iki noktayı unuttuğunuzdandır. (ki zaten yukarıdaki linkte söylüyor adam.) Ya da hakkaten oöyle bir method yoktur. Yazmayı unutmuşsunuzdur. Başka bir sunufun içerisine yazmışsınızdır. Güzel. Akıllandık.</p>
+
+
+

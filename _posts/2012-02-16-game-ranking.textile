@@ -1,0 +1,16 @@
+---
+layout: post
+title: Game Ranking
+---
+
+h1. {{ page.title }}
+
+p(meta). 16 February 2012 - Ankara
+
+<p>Some links about how to design a system for game ranking.</p>
+<ul><li>How to Get Rank Usign Mysql Query - <a href="http://thinkdiff.net/mysql/how-to-get-rank-using-mysql-query/">http://thinkdiff.net/mysql/how-to-get-rank-using-mysql-query/</a></li>
+<li>How to Optimize Rank Data in MySQL - <a href="http://onlamp.com/pub/a/mysql/2007/03/01/optimize-mysql-rank-data.html">http://onlamp.com/pub/a/mysql/2007/03/01/optimize-mysql-rank-data.html</a></li>
+</ul>
+
+
+

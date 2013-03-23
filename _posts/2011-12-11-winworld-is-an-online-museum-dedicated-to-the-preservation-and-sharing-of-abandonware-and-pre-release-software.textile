@@ -1,0 +1,17 @@
+---
+layout: post
+title: WinWorld is an online museum dedicated to the preservation and sharing of abandonware and pre-release software
+---
+
+h1. {{ page.title }}
+
+p(meta). 11 December 2011 - Ankara
+
+http://winworldpc.com/
+
+<p>WinWorld is an online museum dedicated to the preservation and  sharing of abandonware and pre-release software, as well as any and all  knowledge associated with such works. We offer information, media and  downloads for a wide variety of computers and operating systems. Our  collection includes abandonware operating systems (like Windows 3.1 or  95), beta operating systems (like Chicago, Whistler, and Longhorn),  abandonware applications (like AfterDark, the epic screensaver software  we all grew up with) and more.</p>
+
+<p>Some Hardwares&#160;: <a href="ftp://download.intel.com/design/chipsets/datashts/29063301.pdf">ftp://download.intel.com/design/chipsets/datashts/29063301.pdf</a></p>
+
+
+

@@ -1,0 +1,15 @@
+---
+layout: post
+title: My first python experiment for a homework
+---
+
+h1. {{ page.title }}
+
+p(meta). 29 October 2011 - Ankara
+
+<p>On github gist : </p>
+<p><span> <a href="https://gist.github.com/1324995">1324995</a></span></p>
+<p><span><span> </span></span><a href="https://gist.github.com/1324935">1324935</a></p>
+
+
+

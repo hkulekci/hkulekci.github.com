@@ -1,0 +1,18 @@
+---
+layout: post
+title: Denys Mishunov: "Add" menu like in the Path application with CSS
+---
+
+h1. {{ page.title }}
+
+p(meta). 14 December 2011 - Ankara
+
+http://mishunov.tumblr.com/post/13995085591/add-menu-like-in-the-path-application-with-css
+
+<p><a class="tumblr_blog" href="http://mishunov.tumblr.com/post/13995085591/add-menu-like-in-the-path-application-with-css">mishunov</a>:</p>
+<blockquote>
+<p>Yesterday I have installed the <a href="https://path.com/" title="The Path application">Path app</a> on my iPhone. I was really pleased with how slick the application is. Not functionally, because it doesn’t do anything special — yet another way of “socializing”, but how the app has been built and even tiny details are thought through. Really good&#8230;</p>
+</blockquote>
+
+
+

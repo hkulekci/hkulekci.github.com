@@ -1,0 +1,17 @@
+---
+layout: post
+title: PHP & SSH
+---
+
+h1. {{ page.title }}
+
+p(meta). 2 April 2012 - Ankara
+
+<p>Ssh&#8217;a php ile bağlanmak istiyorsanız ve bunun için güzel bir tool arıyorsanız size uygun toolar&#8217;dan birisi <code><a href="http://phpseclib.sourceforge.net/"><a href="http://phpseclib.sourceforge.net/">http://phpseclib.sourceforge.net/</a></a>.</code> </p>
+<p>Karşımıza gelen engeller:</p>
+<ul><li>Bağlandıktan sonra dizin değiştirmek için <code>$ssh-&gt;exec('cd htdocs');</code> yazdıktan sonra bir alt satıra <code>$ssh-&gt;exec('pwd');</code> yazdığınızda halen ana dizinde olduğunuzu görüp aa cd komutu çalışmıyor demeyin. Bunun için <code>$ssh-&gt;exec('cd htdocs; pwd;');</code> yazdığınızda komutun çalıştığını göreceksiniz.</li>
+<li>&#8230;</li>
+</ul>
+
+
+

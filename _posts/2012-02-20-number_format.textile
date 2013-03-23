@@ -1,0 +1,23 @@
+---
+layout: post
+title: Number_format
+---
+
+h1. {{ page.title }}
+
+p(meta). 20 February 2012 - Ankara
+
+<p><div>
+<div>
+<ul><li>PHP Number Format - <a href="http://www.elated.com/articles/php-number-format/" title="http://www.elated.com/articles/php-number-format/"><a href="http://www.elated.com/articles/php-number-format/">http://www.elated.com/articles/php-number-format/</a></a></li>
+<li>How to Format Numbers in PHP - <a href="http://www.toknowmore.net/e/1/php/how-to-format-numbers-in-php.php" title="http://www.toknowmore.net/e/1/php/how-to-format-numbers-in-php.php"><a href="http://www.toknowmore.net/e/1/php/how-to-format-numbers-in-php.php">http://www.toknowmore.net/e/1/php/how-to-format-numbers-in-php.php</a></a></li>
+<li>Number Format - <a href="http://php.net/number_format" title="http://php.net/number_format"><a href="http://php.net/number_format">http://php.net/number_format</a></a></li>
+<li>How do I format a number to a dollar amount in PHP - <a href="http://stackoverflow.com/questions/294865/how-do-i-format-a-number-to-a-dollar-amount-in-php"><a href="http://stackoverflow.com/questions/294865/how-do-i-format-a-number-to-a-dollar-amount-in-php">http://stackoverflow.com/questions/294865/how-do-i-format-a-number-to-a-dollar-amount-in-php</a></a></li>
+</ul></div>
+</div>
+<div>
+<div></div>
+</div></p>
+
+
+

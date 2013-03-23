@@ -1,0 +1,20 @@
+---
+layout: post
+title: Ubuntu Server .htaccess sorunu
+---
+
+h1. {{ page.title }}
+
+p(meta). 27 March 2012 - Ankara
+
+<p><strong>Q&#160;:</strong> <span class="Apple-style-span">How do you enable mod_rewrite with Apache in Ubuntu 10.04?</span></p>
+<p>I tried copying <code>rewrite.load</code> from <code>/etc/apache2/mods-available</code> to <code>etc/apache2/mods-enabled</code> but that didn&#8217;t work.</p>
+<div class="post-text">
+<p><strong>A&#160;:</strong> Try following command `sudo a2enmod rewrite` then restart apache</p>
+<div></div>
+</div>
+
+<p><a href="http://serverfault.com/questions/139791/how-can-i-enable-mod-rewrite-in-apache-on-ubuntu">http://serverfault.com/questions/139791/how-can-i-enable-mod-rewrite-in-apache-on-ubuntu</a></p>
+
+
+

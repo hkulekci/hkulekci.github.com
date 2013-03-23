@@ -1,0 +1,26 @@
+---
+layout: post
+title: CocoaHeads: Objective-C literals for NSDictionary, NSArray, and NSNumber
+---
+
+h1. {{ page.title }}
+
+p(meta). 19 February 2012 - Ankara
+
+http://cocoaheads.tumblr.com/post/17757846453/objective-c-literals-for-nsdictionary-nsarray-and
+
+<p><a class="tumblr_blog" href="http://cocoaheads.tumblr.com/post/17757846453/objective-c-literals-for-nsdictionary-nsarray-and">cocoaheads</a>:</p>
+<blockquote>
+<p><em>Objective-C literals: one can now create literals for NSArray, NSDictionary, and NSNumber (just like one can create literals for NSString)</em></p>
+<p><strong>NSArray Literals</strong></p>
+<p><em>Previously:</em></p>
+<p><code>array = [NSArray arrayWithObjects:a, b, c, nil];</code></p>
+<p><em>Now:</em></p>
+<p><code>array = @[ a, b, c ];</code></p>
+<p><strong>NSDictionary Literals</strong></p>
+<p><em>Previously:</em></p>
+<p><code>...</code></p>
+</blockquote>
+
+
+

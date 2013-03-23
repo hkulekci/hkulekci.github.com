@@ -1,0 +1,39 @@
+---
+layout: post
+title: REST API
+---
+
+h1. {{ page.title }}
+
+p(meta). 26 February 2012 - Ankara
+
+<p>Şimdi diyelim ki siz kendi uygulamanız için bir api oluşturmak istiyorsunuz.</p>
+<ul><li><a href="http://blog.steveklabnik.com/2011/07/03/nobody-understands-rest-or-http.html">http://blog.steveklabnik.com/2011/07/03/nobody-understands-rest-or-http.html</a></li>
+<li><a href="http://blog.steveklabnik.com/2011/08/07/some-people-understand-rest-and-http.html">http://blog.steveklabnik.com/2011/08/07/some-people-understand-rest-and-http.html</a></li>
+<li><a href="http://getcloudkit.com/rest-api.html">http://getcloudkit.com/rest-api.html</a></li>
+<li><a href="http://oauth.net/code/">http://oauth.net/code/</a></li>
+<li>Codeigniter RestServer - A fully RESTful server implementation for CodeIgniter using one library, one config file and one controller. - <a href="https://github.com/philsturgeon/codeigniter-restserver">https://github.com/philsturgeon/codeigniter-restserver</a></li>
+<li>Tank Auth is an authentication library for PHP-framework CodeIgniter. - <a href="https://github.com/ilkon/Tank-Auth">https://github.com/ilkon/Tank-Auth</a></li>
+<li>Codeigniter OAuth 2.0 - Authorize users with your application in a driver-base fashion meaning one implementation works for multiple OAuth 2 providers. This is only to authenticate onto OAuth2 providers and not to build an OAuth2 service. - <a href="https://github.com/philsturgeon/codeigniter-oauth2">https://github.com/philsturgeon/codeigniter-oauth2</a></li>
+<li>How to write a simple php and mysql web service for an ios app - <a href="http://www.raywenderlich.com/2941/how-to-write-a-simple-phpmysql-web-service-for-an-ios-app">http://www.raywenderlich.com/2941/how-to-write-a-simple-phpmysql-web-service-for-an-ios-app</a></li>
+</ul><p>&#8230;</p>
+<p>..</p>
+<p>Uzun zaman oldu ama bir kaç güncelleme eklemek istedim. </p>
+<ul><li>Nobody Understands REST or HTTP - <a href="http://blog.steveklabnik.com/posts/2011-07-03-nobody-understands-rest-or-http">http://blog.steveklabnik.com/posts/2011-07-03-nobody-understands-rest-or-http</a></li>
+<li>Designing HTTP Interfaces and RESTful Web Services (PHPDAY11&#160;2011-05-14) - <a href="http://www.slideshare.net/Wombert/designing-http-interfaces-and-restful-web-services-phpday11-20110514">http://www.slideshare.net/Wombert/designing-http-interfaces-and-restful-web-services-phpday11-20110514</a></li>
+<li>Create a Rest Api with PHP - <a href="http://www.gen-x-design.com/archives/create-a-rest-api-with-php/">http://www.gen-x-design.com/archives/create-a-rest-api-with-php/</a></li>
+<li>Php Dave Api Github Repo - <a href="https://github.com/evantahler/PHP-DAVE-API">https://github.com/evantahler/PHP-DAVE-API</a></li>
+<li>The Epiphany PHP Framework - Fast. Easy. Clean. RESTful - <a href="https://github.com/jmathai/epiphany">https://github.com/jmathai/epiphany</a></li>
+<li>Slim is a PHP 5 Micro Framework - <a href="http://www.slimframework.com/">http://www.slimframework.com/</a></li>
+<li>How To Design A Good API and Why it Matters - <a href="http://www.youtube.com/watch?v=aAb7hSCtvGw">http://www.youtube.com/watch?v=aAb7hSCtvGw</a></li>
+<li>How to Add an API to Your Web Service - <a href="http://particletree.com/features/how-to-add-an-api-to-your-web-service/">http://particletree.com/features/how-to-add-an-api-to-your-web-service/</a></li>
+<li>Towards Restful PHP 5 Basic Tips - <a href="http://www.recessframework.org/page/towards-restful-php-5-basic-tips">http://www.recessframework.org/page/towards-restful-php-5-basic-tips</a></li>
+<li>RocketAPI is a API as a Service (AaaS) provider that will allow you to buildSecure, Scalable cloud-based Rest APIs from your browser. - <a href="http://www.rocketapi.com/">http://www.rocketapi.com/</a></li>
+<li>The RestApi class takes care of making requests, caching, and parsing various response formats (JSON, XML, and serialized PHP). - <a href="http://code.google.com/p/php-rest-api/">http://code.google.com/p/php-rest-api/</a></li>
+<li>Working with RESTful Services in CodeIgniter - <a href="http://net.tutsplus.com/tutorials/php/working-with-restful-services-in-codeigniter-2/">http://net.tutsplus.com/tutorials/php/working-with-restful-services-in-codeigniter-2/</a> - with two repo ( <a href="https://github.com/philsturgeon/codeigniter-restserver">https://github.com/philsturgeon/codeigniter-restserver</a> - <a href="https://github.com/philsturgeon/codeigniter-restclient">https://github.com/philsturgeon/codeigniter-restclient</a> )</li>
+</ul><p>Edit 2013.01&#160;:</p>
+<ul><li>Designing a Secure REST (Web) API without OAuth ( <a href="http://www.thebuzzmedia.com/designing-a-secure-rest-api-without-oauth-authentication/">http://www.thebuzzmedia.com/designing-a-secure-rest-api-without-oauth-authentication/</a> )</li>
+</ul>
+
+rest, api, rest api
+

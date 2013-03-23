@@ -1,0 +1,14 @@
+---
+layout: post
+title: Yine Ikea Yollarında 
+---
+
+h1. {{ page.title }}
+
+p(meta). 12 February 2012 - Ankara
+
+<p><img alt="Asma Avize" height="192" src="http://media-cdn.pinterest.com/upload/14707136253007998_Wzw6IHmR_b.jpg" width="192"/><img alt="Oturtgaç" height="192" src="http://media-cdn.pinterest.com/upload/14707136253007995_mkk2RSW4_b.jpg" width="192"/><img alt="Kullanışlı Ütü Masası" height="192" src="http://media-cdn.pinterest.com/upload/14707136253007991_6YI5CGDc_b.jpg" width="192"/> </p>
+<p>Ikea bu ay da yaktın beni hadi hayırlısı bakalım.</p>
+
+
+

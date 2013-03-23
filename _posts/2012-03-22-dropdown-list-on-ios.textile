@@ -1,0 +1,17 @@
+---
+layout: post
+title: Dropdown List on iOS
+---
+
+h1. {{ page.title }}
+
+p(meta). 22 March 2012 - Ankara
+
+
+<p>Some links about dropdown list how to implement on iOS.</p>
+<ul><li><a href="http://ameyashetti.wordpress.com/2010/09/26/drop-down-demo/">http://ameyashetti.wordpress.com/2010/09/26/drop-down-demo/</a></li>
+<li><a href="http://iphone-rahulvarma.blogspot.in/2011/06/customized-drop-down-list-in-iphone.html%C2%A0">http://iphone-rahulvarma.blogspot.in/2011/06/customized-drop-down-list-in-iphone.html&nbsp;</a></li>
+<li><a href="http://cocoacontrols.com/platforms/ios/controls/vppdropdown">http://cocoacontrols.com/platforms/ios/controls/vppdropdown</a></li>
+<li><a href="http://cocoacontrols.com/platforms/ios/controls/ajcombobox--2">http://cocoacontrols.com/platforms/ios/controls/ajcombobox&mdash;2</a></li>
+<li>…</li>
+</ul>

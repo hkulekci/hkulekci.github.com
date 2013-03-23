@@ -1,0 +1,20 @@
+---
+layout: post
+title: Dumply Blog: Why node.js streams are awesome
+---
+
+h1. {{ page.title }}
+
+p(meta). 26 March 2012 - Ankara
+
+http://blog.dump.ly/post/19819897856/why-node-js-streams-are-awesome
+
+<p><a class="tumblr_blog" href="http://blog.dump.ly/post/19819897856/why-node-js-streams-are-awesome">dumply0</a>:</p>
+<blockquote>
+<h3>tl;dr: You should compose your web app with IO streams</h3>
+<p>On <a href="http://dump.ly">dump.ly</a>, one of our most loved features is the <em>download</em> button, which creates a zip file with all the original images in an album.</p>
+<p>The original solution was hacked up very quickly (ie was pretty ghetto). It simply downloaded each file&#8230;</p>
+</blockquote>
+
+
+

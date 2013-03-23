@@ -1,0 +1,23 @@
+---
+layout: post
+title: Server Management And Some Tools 
+---
+
+h1. {{ page.title }}
+
+p(meta). 26 February 2012 - Ankara
+
+<p><div></div>
+<blockquote>
+<div>Some links about server management command line.. Server links are about centos, plesk and ssh, generally. </div>
+</blockquote>
+<ul><li>Add custom FTP user on Plesk via command line (SSH) - <a href="http://gpiot.com/add-custom-ftp-user-on-plesk-via-command-line-ssh/"><a href="http://gpiot.com/add-custom-ftp-user-on-plesk-via-command-line-ssh/">http://gpiot.com/add-custom-ftp-user-on-plesk-via-command-line-ssh/</a></a></li>
+<li>Using Plesk and vhost.conf - <a href="http://www.gadberry.com/aaron/2006/02/09/plesk_vhost/"><a href="http://www.gadberry.com/aaron/2006/02/09/plesk_vhost/">http://www.gadberry.com/aaron/2006/02/09/plesk_vhost/</a></a></li>
+<li>CentOS Server Git Setup  - <a href="http://cse.csusb.edu/turner/wiki/CentOS_Server_Git_Setup"><a href="http://cse.csusb.edu/turner/wiki/CentOS_Server_Git_Setup">http://cse.csusb.edu/turner/wiki/CentOS_Server_Git_Setup</a></a></li>
+<li>How Set Up Your Own Private Git Server (Linux) - <a href="http://tumblr.intranation.com/post/766290565/how-set-up-your-own-private-git-server-linux">http://tumblr.intranation.com/post/766290565/how-set-up-your-own-private-git-server-linux</a></li>
+<li>editing apache vhosts and ubuntu hosts file? - <a href="http://askubuntu.com/questions/35138/editing-apache-vhosts-and-ubuntu-hosts-file">http://askubuntu.com/questions/35138/editing-apache-vhosts-and-ubuntu-hosts-file</a></li>
+<li>&#8230;</li>
+</ul></p>
+
+
+

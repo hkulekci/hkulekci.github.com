@@ -1,0 +1,19 @@
+---
+layout: post
+title: Martin Kool: How to use Firebug on your iPad and iPhone
+---
+
+h1. {{ page.title }}
+
+p(meta). 4 December 2011 - Ankara
+
+http://martinkool.com/post/13629963755/firebug-on-ipad-and-iphone
+
+<p><a class="tumblr_blog" href="http://martinkool.com/post/13629963755/firebug-on-ipad-and-iphone">mrtnkl</a>:</p>
+<blockquote>
+<p>Web developers targetting HTML5 on iDevices would really benefit from having Web Developer Tools or Firebug on Mobile Safari. Enter <a href="http://getfirebug.com/firebuglite" target="_blank">Firebug Lite</a>! However, iPads, iPhones and bookmarklets don’t go well together, so I put together this little howto.</p>
+<p>All credits to <a href="http://joehewitt.com" target="_blank">Joe Hewitt</a> for creating&#8230;</p>
+</blockquote>
+
+
+

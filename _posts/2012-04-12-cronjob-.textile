@@ -1,0 +1,24 @@
+---
+layout: post
+title: CronJob 
+---
+
+h1. {{ page.title }}
+
+p(meta). 12 April 2012 - Ankara
+
+<p>Ubuntu server&#8217;da cronjob nasıl oluşturulur ve PHP dosyaları bu nasıl çalıştırılır. </p>
+<p>İlk olarak php dosyamızı hazırlıyoruz ve tam dizinini bir kenara not alıyoruz. Örneğin &#8220;<code>/var/www/file.php</code>&#8221;.</p>
+<p>Daha sonrasında komut satırında &#8220;<code>crontab -u user -e</code>&#8221; komutu ile cronjob oluşturulacak kullanıcı için cronjob oluşturma işlemine başlıyoruz. Bu aşamada işletim sistemi bize bir editör seçmemizi önerebilir. Burada ben nano editörünü kullandım, işletim sisteminin bana yaptığı gibi bende size tavsiye edebilirim. </p>
+<p>Nano ile açtığımız dosyaya ben aşağıdaki gibi bir kod ekledim ve her iki dakikada bir belirlediğim php dosyası çalışacaktır. </p>
+<p><code>*/2 * * * * /usr/bin/php /var/www/file.php</code></p>
+<p>Bu aşamada artık kodlarımız düzgünce çalışacaktır. Bunun dışında eğer crontab çalışıyor mu çalışmıyor mu diye merak ettiğiniz noktalar var ise bunu log&#8217;lar ile çözebilirsiniz. Cronjob&#8217;un loglarını görmek için öncelikle cronjob çalışıyor mu diye bakalım:</p>
+<p><code>ps aux | grep cron</code></p>
+<p>Daha sonrasında ise loglar arasında cronjob&#8217;un ne zamanlar çalıştığını ve daha sını görelim.</p>
+<p><code>cat /var/log/syslog | grep cron</code></p>
+<p>Not&#160;: file.php&#8217;de include, require gibi methodları kullandı iseniz. Bunlarda dosyaların tam yolunu yazmanız daha iyi oalcaktır. Bunun için şöyle bir yol izleyebilirisiniz.</p>
+<p><code>include(dirname(__FILE__).'/../scripts/functions.php');</code></p>
+<p>Kaynaklar : <br/> <a href="http://serverfault.com/a/136464/116128">http://serverfault.com/a/136464/116128</a><br/> <a href="http://stackoverflow.com/a/8795652/721600">http://stackoverflow.com/a/8795652/721600</a><br/> <a href="http://www.belgeler.org/man/man5/man5-crontab.html">http://www.belgeler.org/man/man5/man5-crontab.html</a></p>
+
+
+

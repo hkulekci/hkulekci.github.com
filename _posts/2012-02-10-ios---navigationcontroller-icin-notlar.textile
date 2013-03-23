@@ -1,0 +1,13 @@
+---
+layout: post
+title: iOS - NavigationController için Notlar
+---
+
+h1. {{ page.title }}
+
+p(meta). 10 February 2012 - Ankara
+
+<p><script src="https://gist.github.com/1787483.js?file=gistfile1.m"></script></p>
+
+ios, navigationController, obj-c
+

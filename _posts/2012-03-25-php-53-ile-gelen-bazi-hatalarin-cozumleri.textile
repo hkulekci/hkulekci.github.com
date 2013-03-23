@@ -1,0 +1,19 @@
+---
+layout: post
+title: PHP 5.3 ile gelen bazı hataların çözümleri
+---
+
+h1. {{ page.title }}
+
+p(meta). 25 March 2012 - Ankara
+
+<p><a href="http://blog.ownhost.net/2011/09/15/php-5-3-safemod-hatasi/">http://blog.ownhost.net/2011/09/15/php-5-3-safemod-hatasi/</a> adresinde açıklanan safe mod hatasından küçük bir alıntı verelim.</p>
+<blockquote>
+<p>Sırasıyla Aşağıdaki Komutları uygulamanız yeterli olacaktır</p>
+<blockquote>
+<p><span class="Apple-style-span">mv /etc/php.ini /etc/php.ini_old<br/>mv /etc/php.ini.rpmnew /etc/php.ini</span></p>
+</blockquote>
+</blockquote>
+
+
+

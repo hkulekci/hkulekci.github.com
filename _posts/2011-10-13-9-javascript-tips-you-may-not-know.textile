@@ -1,0 +1,15 @@
+---
+layout: post
+title: 9 Javascript Tips You May not Know
+---
+
+h1. {{ page.title }}
+
+p(meta). 13 October 2011 - Ankara
+
+http://aymanh.com/9-javascript-tips-you-may-not-know#Stack
+
+
+
+
+

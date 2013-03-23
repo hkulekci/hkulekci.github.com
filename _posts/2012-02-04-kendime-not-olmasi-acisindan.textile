@@ -1,0 +1,14 @@
+---
+layout: post
+title: Kendime not olması açısından
+---
+
+h1. {{ page.title }}
+
+p(meta). 4 February 2012 - Ankara
+
+<p>Bazı yararlı olabilecek küçük uygulama ve komutları buraya not etmeyi amaçlıyorum. Umarım tüm camiaya yararlı olur.</p>
+<p>which command <br/>      usage: which [-as] program &#8230;<br/>      Example&#160;: # which php<br/>                       # /usr/bin/php<br/><br/></p>
+
+
+

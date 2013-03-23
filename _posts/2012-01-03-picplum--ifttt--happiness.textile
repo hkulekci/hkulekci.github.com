@@ -1,0 +1,18 @@
+---
+layout: post
+title: Picplum + ifttt = Happiness
+---
+
+h1. {{ page.title }}
+
+p(meta). 3 January 2012 - Ankara
+
+<p><a class="tumblr_blog" href="http://blog.picplum.com/post/15249228497/picplum-ifttt-recipes">picplum</a>:</p>
+<blockquote>
+<p>Want to automatically add photos to your Picplum account when you post photos to other services? You can use the service <strong>ifttt</strong> (short for if this then that). It lets you create triggers and then do something when that happens. We have started seeing Picplum users making <strong><a href="http://ifttt.com/recipes/search?q=picplum" title="ifttt Picplum">ifttt “recipes” for Picplum</a> </strong>and other services like Flickr, Tumblr and Instagram.</p>
+<p><a href="http://ifttt.com/recipes/search?q=picplum" title="Picplum and ifttt"><img src="http://media.tumblr.com/tumblr_lx8jyinDmq1qlcz4z.jpg"/></a></p>
+<p>For more explanation about what ifttt is all about, <strong><a href="http://techcrunch.com/2011/12/28/ifttt-triggers-loyal-nerdy-following/" title="IFTTT Triggers Loyal, Nerdy Following">Semil Shah wrote a great post</a></strong>.</p>
+</blockquote>
+
+
+

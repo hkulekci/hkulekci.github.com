@@ -1,0 +1,19 @@
+---
+layout: post
+title: ASIHTTPRequest Reachability How to
+---
+
+h1. {{ page.title }}
+
+p(meta). 7 April 2012 - Ankara
+
+<p>You need to set up a notification handler for this:</p>
+<p><code> Reachability *reach = [Reachability reachabilityWithHostName:@"http://google.com"];<br/> [[NSNotificationCenter defaultCenter] addObserver:self<br/>                      selector:@selector(reachabilityChanged:)<br/>                      name:kReachabilityChangedNotification<br/>                      object:nil];<br/> [reach startNotifier]; </code></p>
+<p>Then, implement the handler like so:</p>
+<p><code> - (void) reachabilityChanged:(Reachability *) reach {<br/>      if ([reach isReachable]) {<br/>          NSLog(@"connection");<br/>      } else{<br/>          NSLog(@"no connection");<br/>      }<br/> }<br/></code></p>
+<p>Also, when you don&#8217;t need to know when things change, remove yourself as an observer:</p>
+<p><code><code><code>    [[NSNotificationCenter defaultCenter] removeObserver:self name:kReachabilityChangedNotification object:nil];</code></code></code></p>
+<div></div>
+
+
+

@@ -1,0 +1,13 @@
+---
+layout: post
+title: OpenPanel Upgrade Error
+---
+
+h1. {{ page.title }}
+
+p(meta). 5 April 2012 - Ankara
+
+<script src="https://gist.github.com/2309577.js?file=first.sh" type="text/javascript"></script><script src="https://gist.github.com/2309577.js?file=second.sh" type="text/javascript"></script><script src="https://gist.github.com/2309577.js?file=solution.sh" type="text/javascript"></script><p><br/> Source&#160;: <a href="https://bugs.launchpad.net/ubuntu/+source/courier-authlib/+bug/64615">https://bugs.launchpad.net/ubuntu/+source/courier-authlib/+bug/64615</a></p>
+
+
+

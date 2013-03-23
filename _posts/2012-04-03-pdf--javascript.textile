@@ -1,0 +1,17 @@
+---
+layout: post
+title: PDF & Javascript
+---
+
+h1. {{ page.title }}
+
+p(meta). 3 April 2012 - Ankara
+
+<p>PDF reader in Javascript and HTML5 (This project is no longer actively developed. I&#8217;ve joined the Mozilla team and I am now working full time on pdf.js)  <br/>      - <a href="http://code.google.com/p/trapeze-reader/">http://code.google.com/p/trapeze-reader/</a></p>
+<p>PdfViewer.js - This file is from Mozilla pdf.js project  <br/>     - <a href="https://code.google.com/p/share-extras/source/browse/trunk/Viewer+Extension/source/web/components/preview/pdfviewer.js?r=895">https://code.google.com/p/share-extras/source/browse/trunk/Viewer+Extension/source/web/components/preview/pdfviewer.js?r=895</a></p>
+<p>WPS: PostScript for the Web - a PostScript and PDF interpreter for HTML 5 canvas <br/>     - <a href="http://logand.com/sw/wps/index.html">http://logand.com/sw/wps/index.html</a></p>
+<p>Three Sources for Javascript PDF Viewers <br/>     - <a href="http://web-design.lovetoknow.com/Javascript_PDF_Viewer">http://web-design.lovetoknow.com/Javascript_PDF_Viewer</a> <br/>     - <a href="http://www.planetpdf.com/developer/article.asp?ContentID=6828">http://www.planetpdf.com/developer/article.asp?ContentID=6828</a></p>
+<p>PDFTOHTML - pdftohtml is a utility which converts PDF files into HTML and XML formats. <br/>     - <a href="http://pdftohtml.sourceforge.net/">http://pdftohtml.sourceforge.net/</a></p>
+
+
+

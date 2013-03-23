@@ -1,0 +1,14 @@
+---
+layout: post
+title: Haxe
+---
+
+h1. {{ page.title }}
+
+p(meta). 26 April 2012 - Ankara
+
+<p>IF YOU COULD ONLY LEARN ONE PROGRAMMING LANGUAGE, <em>HAXE</em> WOULD BE IT.</p>
+<p>IT&#8217;S UNIVERSAL. IT&#8217;S POWERFUL. IT&#8217;S EASY-TO-USE.</p>
+
+
+

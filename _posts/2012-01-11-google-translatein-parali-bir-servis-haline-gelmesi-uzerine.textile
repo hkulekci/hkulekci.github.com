@@ -1,0 +1,13 @@
+---
+layout: post
+title: Google Translate'in paralı bir servis haline gelmesi üzerine
+---
+
+h1. {{ page.title }}
+
+p(meta). 11 January 2012 - Ankara
+
+<p>Oturduk bir kaç arama yaptık ve http://detectlanguage.com/ adlı bedava bir tool ile karşılaştık. En azından dili detect edebiliyoruz&#160;: ) </p>
+
+
+

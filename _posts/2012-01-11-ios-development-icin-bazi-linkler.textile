@@ -1,0 +1,14 @@
+---
+layout: post
+title: iOS Development için bazı linkler
+---
+
+h1. {{ page.title }}
+
+p(meta). 11 January 2012 - Ankara
+
+<p>Başvuru aşamasında karşılaşılacak işlemler için bir kaç yazı payalşımını buradan yapacağım. Daha sonradan arama yapma zahmetine girmemek için birebir.</p>
+<ul><li>Apple iOS Development Process Summary / Explanation <br>- <a href="http://swfhead.com/blog/?p=1185"></a><a href="http://swfhead.com/blog/?p=1185">http://swfhead.com/blog/?p=1185</a></li>
+<li>Getting your Apple Developer Certification &ndash; part 2<br> -&nbsp;<a href="http://brentsampson.com/2011/05/28/getting-your-apple-developer-certification-part-3/"></a><a href="http://brentsampson.com/2011/05/28/getting-your-apple-developer-certification-part-3/">http://brentsampson.com/2011/05/28/getting-your-apple-developer-certification-part-3/</a></li>
+<li>Geç olsun güç olmasın :&nbsp;<br><a href="http://globalmoxie.com/blog/designing-for-iphone4-retina-display.shtml"></a><a href="http://globalmoxie.com/blog/designing-for-iphone4-retina-display.shtml%C2%A0">http://globalmoxie.com/blog/designing-for-iphone4-retina-display.shtml&nbsp;</a></li>
+</ul><p>Devamı gelecek …</p>

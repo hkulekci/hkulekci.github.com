@@ -1,0 +1,16 @@
+---
+layout: post
+title: Regex Obj-c
+---
+
+h1. {{ page.title }}
+
+p(meta). 8 April 2012 - Ankara
+
+<p>Bir yerlerde bir şekilde işimizin düştüğü regular expression konusunda acaba daha önceden neler yapılmış diye merak edip biraz gezindim. Elime geçenleri de burda bir not alayım dedim. </p>
+<ul><li>DHValidation makes validating forms in cocoa super-duper easy - <a href="https://github.com/benofsky/DHValidation">https://github.com/benofsky/DHValidation</a></li>
+<li>Lightweight Objective-C Regular Expressions for Mac OS X using the ICU Library - http://regexkit.sourceforge.net/RegexKitLite/</li>
+</ul>
+
+
+

@@ -1,0 +1,16 @@
+---
+layout: post
+title: WebSockets: A Guide
+---
+
+h1. {{ page.title }}
+
+p(meta). 25 April 2012 - Ankara
+
+<h2 id="efficient-realtime-data-transfer-for-modern-web-games">Efficient, realtime data transfer for modern web games</h2>
+<p><span class="Apple-style-span">WebSockets provide two-way realtime communication between a client and server, and thus are exceedingly useful in building modern web games. Browser-based games can profit from an always-on, low-latency connection by enabling the rapid transmission of information about player and global game state previously emulated by methods such as Ajax polling and Comet. It is useful to first look at the history of WebSockets and gain an understanding of how WebSockets work at a technical level before we examine how we may use WebSockets most effectively. Armed with this knowledge, we can simplify the network layer and build amazingly responsive games that provide a high level of multiplayer interactions.</span></p>
+<p>&#8230;..</p>
+<p>=&gt; <a href="http://buildnewgames.com/websockets/"><a href="http://buildnewgames.com/websockets/">http://buildnewgames.com/websockets/</a></a></p>
+
+
+

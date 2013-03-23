@@ -1,0 +1,19 @@
+---
+layout: post
+title: Wildcard DNS Record
+---
+
+h1. {{ page.title }}
+
+p(meta). 1 December 2011 - Ankara
+
+<p>Bazı zamanlar karşılaştığımız bsorunları ya da yöntemleri bir yerlere kaydetmek isteriz ya. işte şimdi tam o zaman.</p>
+
+<p><a href="http://en.wikipedia.org/wiki/Wildcard_DNS_record">http://en.wikipedia.org/wiki/Wildcard_DNS_record</a></p>
+<p><a href="http://ma.tt/2003/10/wildcard-dns-and-sub-domains/">http://ma.tt/2003/10/wildcard-dns-and-sub-domains/</a></p>
+<p><a href="http://help.directadmin.com/item.php?id=127">http://help.directadmin.com/item.php?id=127</a></p>
+
+<p>saygılar&#8230;</p>
+
+
+

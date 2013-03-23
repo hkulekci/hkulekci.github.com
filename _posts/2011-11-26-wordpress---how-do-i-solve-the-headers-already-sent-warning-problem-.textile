@@ -1,0 +1,15 @@
+---
+layout: post
+title: Wordpress - How do I solve the Headers already sent warning problem? 
+---
+
+h1. {{ page.title }}
+
+p(meta). 26 November 2011 - Ankara
+
+http://codex.wordpress.org/FAQ_Troubleshooting#How_do_I_solve_the_Headers_already_sent_warning_problem.3F
+
+
+
+
+
