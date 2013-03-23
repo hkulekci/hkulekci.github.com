@@ -9,21 +9,22 @@ p(meta). 15 February 2013 - Ankara
 
 You can use following instruction on .htaccess file if you want to protect some files from users.
 
-    List your protect file ( for example : i try to protect my *.tpl, *.log, *.ini, *.txt files)
-    are there any ignore file? (I have a robots.txt file. it was ignored from protection)
-    Create your htaccess
+    1. List your protect file ( for example : i try to protect my *.tpl, *.log, *.ini, *.txt files)
+    2. are there any ignore file? (I have a robots.txt file. it was ignored from protection)
+    3. Create your htaccess
+    <code>
+        # Prevent Direct Access to files
+        <FilesMatch “(?i)((.tpl|.ini|.log|(?<!robots).txt))”>
+         Order deny,allow
+         Deny from all
+        </FilesMatch>
+    </code>
+    4. “Options -Indexes” use to disable directory browsing
+    5. “IndexIgnore *” use to prevent folder listing
 
-    # Prevent Direct Access to files
-    <FilesMatch “(?i)((.tpl|.ini|.log|(?<!robots).txt))”>
-     Order deny,allow
-     Deny from all
-    </FilesMatch>
-    “Options -Indexes” use to disable directory browsing
-    “IndexIgnore *” use to prevent folder listing
+In these case, “(?i)” part of the example is for caseless matching. And <code>(?<robots).txt</code> part is for ignori robots.txt file and protecting all the others.
 
-In these case, “(?i)” part of the example is for caseless matching. And “(?<robots).txt” part is for ignori robots.txt file and protecting all the others.
-
-If you want to ignore more file like robots.txt file. You can add like this “(?<robots|test|ignored|file).txt”. Now, users can access robots.txt, test.txt, ignored.txt, file.txt
+If you want to ignore more file like robots.txt file. You can add like this <code>(?<robots|test|ignored|file).txt</code>. Now, users can access robots.txt, test.txt, ignored.txt, file.txt
 
 
 htaccess, filesmatch, files, match, ignore
