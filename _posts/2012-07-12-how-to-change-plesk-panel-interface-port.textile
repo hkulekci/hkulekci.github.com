@@ -1,0 +1,18 @@
+---
+layout: post
+title: How to change Plesk Panel interface port
+---
+
+h1. {{ page.title }}
+
+p(meta). 12 July 2012 - Ankara
+
+<p>For Plesk Panel version 10.x. You must chage plesk panel configuration from /etc/sw-cp-server/applications.d/plesk.conf. Edit following line to change</p>
+<p>include_shell&#8221;/etc/sw-cp-server/applications.d/plesk.socket.sh 8443 ssl&#8221; <br/>&#8230; <br/>include_shell &#8220;/etc/sw-cp-server/applications.d/plesk.socket.sh 8443 ipv6 ssl&#8221;</p>
+<p>And restart sw-cp-server</p>
+<p>~# /etc/init.d/sw-cp-server restart <br/>Restarting SWsoft control panels server&#8230; stale pidfile. [ OK ] <br/>~#</p>
+<p>And&#160;: </p>
+<p>In order to change the port Plesk listens on we will need to edit the file<br/> /usr/local/psa/admin/conf/httpsd.conf <br/><br/> and change the following directives to list the port you want Plesk to listen on:<br/><br/> Listen 8443<br/> Port 8443<br/> &lt;VirtualHost *:8443&gt;<br/><br/> Now restart Plesk and update</p>
+
+
+

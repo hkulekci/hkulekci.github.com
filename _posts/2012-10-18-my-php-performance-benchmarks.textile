@@ -1,0 +1,15 @@
+---
+layout: post
+title: My PHP Performance Benchmarks
+---
+
+h1. {{ page.title }}
+
+p(meta). 18 October 2012 - Ankara
+
+http://maettig.com/code/php/php-performance-benchmarks.php
+
+
+
+
+

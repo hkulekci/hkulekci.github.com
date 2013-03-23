@@ -1,0 +1,22 @@
+---
+layout: post
+title: Win98 and WinXP command line trick
+---
+
+h1. {{ page.title }}
+
+p(meta). 25 August 2012 - Ankara
+
+<p>You can execute several commands at once at command line on windows xp/98 like this&#160;:</p>
+<p>On WinXP&#160;:</p>
+<blockquote>
+<p>file1.exe parameter1 parameter2 &amp; file2.exe param1 param2</p>
+</blockquote>
+<p>On Win98 </p>
+<blockquote>
+<p>file1.exe param1 param2 | file2.exe parameter1 parameter2</p>
+</blockquote>
+<p>This is windows operationg system&#8217;s <span>inconsistency. </span></p>
+
+
+

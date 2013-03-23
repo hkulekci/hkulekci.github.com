@@ -1,0 +1,16 @@
+---
+layout: post
+title: When I overhear some random person talking about our startup, I'm like
+---
+
+h1. {{ page.title }}
+
+p(meta). 28 April 2012 - Ankara
+
+<p><a class="tumblr_blog" href="http://runningastartup.tumblr.com/post/21913714772/when-i-overhear-some-random-person-talking-about-our">runningastartup</a>:</p>
+<blockquote>
+<p><img src="http://i.imgur.com/9hV5i.gif"/></p>
+</blockquote>
+
+
+

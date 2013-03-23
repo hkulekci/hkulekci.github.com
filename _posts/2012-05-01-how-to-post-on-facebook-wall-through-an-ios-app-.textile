@@ -1,0 +1,15 @@
+---
+layout: post
+title: How to post on Facebook wall through an iOS app 
+---
+
+h1. {{ page.title }}
+
+p(meta). 1 May 2012 - Ankara
+
+http://gabriel-tips.blogspot.com/2011/10/how-to-post-on-facebook-wall-through.html
+
+
+
+
+

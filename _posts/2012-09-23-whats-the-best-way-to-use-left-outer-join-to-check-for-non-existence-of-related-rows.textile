@@ -1,0 +1,15 @@
+---
+layout: post
+title: What's the best way to use LEFT OUTER JOIN to check for non-existence of related rows
+---
+
+h1. {{ page.title }}
+
+p(meta). 23 September 2012 - Ankara
+
+http://stackoverflow.com/a/5886140/721600
+
+
+
+
+

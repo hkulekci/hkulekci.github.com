@@ -1,0 +1,15 @@
+---
+layout: post
+title: nginx resources
+---
+
+h1. {{ page.title }}
+
+p(meta). 13 September 2012 - Ankara
+
+http://tdupree.com/2009/03/25/nginx-resources/
+
+
+
+
+

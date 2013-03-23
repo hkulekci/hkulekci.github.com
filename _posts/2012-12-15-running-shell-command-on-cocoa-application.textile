@@ -1,0 +1,15 @@
+---
+layout: post
+title: Running Shell Command on Cocoa Application
+---
+
+h1. {{ page.title }}
+
+p(meta). 15 December 2012 - Ankara
+
+<p>i found some links and sources about executing shell command in a cocoa app when i try to write a preferences application for zend server. The project is not completed now.</p>
+<p><a href="http://www.cocoawithlove.com/2009/05/invoking-other-processes-in-cocoa.html">http://www.cocoawithlove.com/2009/05/invoking-other-processes-in-cocoa.html</a><br/><a href="http://cocoadev.com/wiki/NSTask">http://cocoadev.com/wiki/NSTask</a><br/><a href="http://stackoverflow.com/questions/8662144/how-to-run-a-shell-command-in-cocoa-and-get-output">http://stackoverflow.com/questions/8662144/how-to-run-a-shell-command-in-cocoa-and-get-output</a><br/><a href="http://stackoverflow.com/questions/412562/execute-a-terminal-command-from-a-cocoa-app">http://stackoverflow.com/questions/412562/execute-a-terminal-command-from-a-cocoa-app</a><br/><a href="http://stackoverflow.com/questions/412562/execute-a-terminal-command-from-a-cocoa-app/696942#696942">http://stackoverflow.com/questions/412562/execute-a-terminal-command-from-a-cocoa-app/696942#696942</a><br/><a href="https://github.com/jerrykrinock/AuthorizedTasksInCocoa">https://github.com/jerrykrinock/AuthorizedTasksInCocoa</a><br/><a href="https://github.com/incbee/BETaskHelper">https://github.com/incbee/BETaskHelper</a><br/><a href="https://github.com/sveinbjornt/STPrivilegedTask">https://github.com/sveinbjornt/STPrivilegedTask</a><br/><a href="http://projectswithlove.com/projects/OpenFileKiller.zip">http://projectswithlove.com/projects/OpenFileKiller.zip</a></p>
+<p>&#8230;</p>
+
+
+

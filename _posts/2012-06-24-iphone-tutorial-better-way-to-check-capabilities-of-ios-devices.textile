@@ -1,0 +1,15 @@
+---
+layout: post
+title: iPhone Tutorial: Better way to check capabilities of iOS devices
+---
+
+h1. {{ page.title }}
+
+p(meta). 24 June 2012 - Ankara
+
+http://blog.mugunthkumar.com/coding/iphone-tutorial-better-way-to-check-capabilities-of-ios-devices/
+
+<p><span class="Apple-style-span">The iPhone OS started off with a single device, the original iPhone, ala, iPhone 1,1. In the last three years, Apple has been innovating hard and introduced multiple devices running the same operating system with different capabilities. For example, the original iPod touch, iPod 1,1 wasn’t able to record audio input, and till date iPod Touch cannot vibrate as a result of an alert. There are many such subtle differences between different iOS devices and it’s the developer’s effort to make sure that the code runs properly on all devices.</span></p>
+
+
+

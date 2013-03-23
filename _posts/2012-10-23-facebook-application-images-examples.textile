@@ -1,0 +1,19 @@
+---
+layout: post
+title: Facebook Application Images Examples
+---
+
+h1. {{ page.title }}
+
+p(meta). 23 October 2012 - Ankara
+
+<p><img src="http://f.cl.ly/items/2b1K271J0E2c471X2F0Q/no_image_website_fb_login.png"/></p>
+<p><img src="http://f.cl.ly/items/0D3y0q3g0T2R0t3G2H3f/no_image_s_web_editor_pick.png"/></p>
+<p><img height="150" src="http://f.cl.ly/items/0D2u0i0Q4733300Z0h1V/no_image_l_web_editor_pick.png" width="394"/></p>
+<p><img src="http://f.cl.ly/items/2B152T2n2H1N1Y0W3G34/no_image_icons.png"/></p>
+<p><img height="150" src="http://f.cl.ly/items/330l2a3a371B063Q2P3O/no_image_cover.png" width="800"/></p>
+<p><img src="http://f.cl.ly/items/2E0p1w1P1E2a2F160T06/no_image_banner.png"/></p>
+<p><img src="http://f.cl.ly/items/332U2c453d021W0m1X1Y/no_image_app_logo.png"/></p>
+
+
+

@@ -1,0 +1,13 @@
+---
+layout: post
+title: Macbook Pro USB not Working
+---
+
+h1. {{ page.title }}
+
+p(meta). 26 September 2012 - Ankara
+
+<p><span>I had the same problem. Very easy to fix. Just reset the EFI and SMC. For reseting the EFI press Shift+Control+Option+Power button and make sure your MacBook is plugged in. Then power it on and before the gray display appears press Command+Option+R+P until rebooted. That&#8217;s it</span></p>
+
+
+

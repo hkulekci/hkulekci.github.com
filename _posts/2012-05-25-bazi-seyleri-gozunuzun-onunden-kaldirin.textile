@@ -1,0 +1,19 @@
+---
+layout: post
+title: Bazı Şeyleri Gözünüzün Önünden Kaldırın
+---
+
+h1. {{ page.title }}
+
+p(meta). 25 May 2012 - Ankara
+
+<p>Facebook hesabında şu aralar halk arasında virüs gözüyle bakılan bir takım uygulamalar tarafından otomatik atılan paylaşımların hayatımızda epey bir yer tuttuğunu görüyoruz. Şimdi bu paylaşımlardan rahat ve hızlı bir şekilde nasıl kurtuluruz bir bakalım. </p>
+<p>Bu paylaşımlar sizin hesabınızda da olabilir. Yine aynı adımları izleyerek bunu kontrol edebilirsiniz. </p>
+<ol><li>İlk olarak uygulamaların kaynağını kurutalım. Aşağıdaki resimlerde adım adım hangi bağlantıları kullanarak daha önce yanlışlıkla ya da isteyerek izin verdiğiniz uygulamaların listesini görebilirsiniz.<br/><img src="http://f.cl.ly/items/0h3q473y023c1S3J2P2o/1.png"/><img src="http://f.cl.ly/items/3C3u2l073X223J3f1l3T/2.png" width="450"/><img src="http://f.cl.ly/items/3O013l1a1X3W2E3G0W3U/3.png" width="450"/></li>
+<li>Şimdi uygulama listesi aşağıdaki resimdeki gibi bir şey olması gerekiyor. Bu listeden siz.net, zapkolik, mynet, izlesene gibi uygulamaları görebilirsiniz. Bunların dışında yüklediğiniz oyunları,&#8230; vs bütün uygulalarınızı. Benim söylediğim video sağlayıcı uygulamalar facebook paylaşımında ün salmış video paylaşım siteleri. Kendileri kullanıcıların gaflette bulunup ekledikleri uygulamaları ile bu haklarını süistimal ederek (bence) profilinizde birşeyler paylaşabilirler. Yani dikkat edelim.<br/><img src="http://f.cl.ly/items/1N203I3M0b1n1p3K0C0F/4.png" width="450"/></li>
+<li>Daha sonra oradan da anlayacağımız gibi &#8220;Uygulamayı Kaldır&#8221; veya &#8220;Remove App&#8221; bağlantısı ile oradaki uygulamalardan bizim adımıza paylaşım yapan uygulamayı kaldırıyoruz. Bu vesileyle artık o uygulamaların bizim profilimizde bir şeyler paylaşmasını engellemiş oluyoruz. </li>
+<li>Şimdi gelelim daha önceden paylaşılmış olan postları nasıl kaldıracağız. Bunun için daha kısa yollar mevcut ancak ben şimdilik bunun uzun yolunu yazıyorum. Onuda deneyebileceğim bir hesap bulabilirsem kısa yolunuda yazacağım. Profil sayfanıza giriyorsunuz ve tek tek profilince paylaşılmış postları aşağıdaki gibi siliyorsunuz. Gerktiğinde uygulamaları engelleyede bilirsiniz.<br/><img src="http://f.cl.ly/items/0Y0u2H2j1G2b44330j2p/5.png" width="450"/></li>
+</ol><p>Not&#160;: <a href="http://runningastartup.tumblr.com/post/23185879509/after-i-give-facebook-permissions-to-an-app-im-like">http://runningastartup.tumblr.com/post/23185879509/after-i-give-facebook-permissions-to-an-app-im-like</a></p>
+
+
+

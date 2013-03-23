@@ -1,0 +1,20 @@
+---
+layout: post
+title: Mysql Optimisation Links
+---
+
+h1. {{ page.title }}
+
+p(meta). 25 September 2012 - Ankara
+
+<p>Some links about Mysql Optimisation</p>
+<ul><li><a href="http://stackoverflow.com/questions/2048543/sql-optimization-newbie-looking-for-tools-scripts">http://stackoverflow.com/questions/2048543/sql-optimization-newbie-looking-for-tools-scripts</a></li>
+<li><a href="http://stackoverflow.com/questions/362223/best-mysql-performance-tuning-tool">http://stackoverflow.com/questions/362223/best-mysql-performance-tuning-tool</a></li>
+<li><a href="http://www.devshed.com/c/a/MySQL/MySQL-Optimization-part-1/">http://www.devshed.com/c/a/MySQL/MySQL-Optimization-part-1/</a></li>
+<li><a href="http://www.webyog.com/en/">http://www.webyog.com/en/</a></li>
+<li><a href="http://vladimir-shapiro.com/en/blog/2007/11/14/mysql-query-optimization/">http://vladimir-shapiro.com/en/blog/2007/11/14/mysql-query-optimization/</a></li>
+<li><a href="http://speedprofs.com/tools/php-apache-mysql/">http://speedprofs.com/tools/php-apache-mysql/</a></li>
+</ul>
+
+
+

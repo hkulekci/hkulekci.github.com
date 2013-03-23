@@ -1,0 +1,14 @@
+---
+layout: post
+title: How to delete unwanted xlsx file on desktop
+---
+
+h1. {{ page.title }}
+
+p(meta). 27 July 2012 - Ankara
+
+<p><span class="Apple-style-span">Easier than rebooting would be to just relaunch Finder:<br/><br/>1. Press Command-Option-Esc (or click Apple Menu, Force Quit).<br/>2. Scroll to the bottom and select Finder, highlight it and click &#8220;Relaunch&#8221;.<br/>3. Finder should relaunch and the files will be gone.</span></p>
+<p><span class="Apple-style-span"><br/></span></p>
+
+
+

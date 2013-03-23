@@ -1,0 +1,14 @@
+---
+layout: post
+title: About Magento
+---
+
+h1. {{ page.title }}
+
+p(meta). 3 July 2012 - Ankara
+
+<p><a href="http://www.magentocommerce.com/knowledge-base/entry/magento-for-dev-part-1-introduction-to-magento"><a href="http://www.magentocommerce.com/knowledge-base/entry/magento-for-dev-part-1-introduction-to-magento">http://www.magentocommerce.com/knowledge-base/entry/magento-for-dev-part-1-introduction-to-magento</a></a></p>
+<p><a href="http://www.theunusableweb.com/critiques/opencart-vs-magento/"><a href="http://www.theunusableweb.com/critiques/opencart-vs-magento/">http://www.theunusableweb.com/critiques/opencart-vs-magento/</a></a></p>
+
+
+

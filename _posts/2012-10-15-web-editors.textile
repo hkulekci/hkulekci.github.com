@@ -1,0 +1,23 @@
+---
+layout: post
+title: Web Editors
+---
+
+h1. {{ page.title }}
+
+p(meta). 15 October 2012 - Ankara
+
+<p>TinyMCE is a platform independent web based Javascript HTML WYSIWYG editor control released as Open Source under LGPL by Moxiecode Systems AB. TinyMCE has the ability to convert HTML TEXTAREA fields or other HTML elements to editor instances. TinyMCE is very easy to integrate into other Content Management Systems.</p>
+<p><a href="http://www.tinymce.com/">http://www.tinymce.com/</a></p>
+<p>markItUp! is a JavaScript plugin built on the jQuery library. It allows you to turn any textarea into a markup editor. Html, Textile, Wiki Syntax, Markdown, BBcode or even your own Markup system can be easily implemented.</p>
+<p><a href="http://markitup.jaysalvat.com/home/">http://markitup.jaysalvat.com/home/</a></p>
+<p>TinyEditor is a simple JavaScript WYSIWYG editor that is both lightweight (under 9KB) and standalone. It can easily be customized to integrate with any website through CSS and the multitude of parameters. It handles most of the basic formatting needs and has some functionality built in to help keep the rendered markup as clean as possible.</p>
+<p><a href="http://www.scriptiny.com/2010/02/javascript-wysiwyg-editor/">http://www.scriptiny.com/2010/02/javascript-wysiwyg-editor/</a></p>
+<p>Wyzz is an ultra-small, very light WYSIWYG (What You See Is What You Get) Editor for use in your web applications. It&#8217;s written in JavaScript, and is free for you to use in your web applications and/or alter to your needs.</p>
+<p><a href="http://www.wyzz.info/">http://www.wyzz.info/</a></p>
+<p>NicEdit is a WYSIWYG editor for websites. Its goal is to be as simple and fast as possible for users of your application. NicEdit is extremely lightweight and can be easily integrated in any site with minimal impact while providing visitors an effective means to express themselves in rich text.</p>
+<p><a href="http://nicedit.com/">http://nicedit.com/</a></p>
+<p>Extra&#160;: <a href="http://www.w3avenue.com/2010/01/04/list-of-free-web-based-html-editors-for-your-cms-project/">http://www.w3avenue.com/2010/01/04/list-of-free-web-based-html-editors-for-your-cms-project/</a></p>
+
+
+

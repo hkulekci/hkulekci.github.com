@@ -1,0 +1,45 @@
+---
+layout: post
+title: CentOS 6 git Setup
+---
+
+h1. {{ page.title }}
+
+p(meta). 3 October 2012 - Ankara
+
+<p>These are the steps we followed for CentOS6 and should work for RHEL6 with little or no modifications.</p>
+<p><span>First, you have to install the dependencies:</span></p>
+<div>
+<div class="syntaxhighlighter wrap bash" id="highlighter_629748"><br/><div class="container">
+<div class="line number1 index0 alt2"><code class="bash plain">yum -y </code><code class="bash functions">install</code> <code class="bash plain">zlib-devel openssl-devel cpio expat-devel gettext-devel gcc</code></div>
+</div>
+</div>
+</div>
+<p> Then, install ExUtils-MakeMaker:</p>
+<div>
+<div class="syntaxhighlighter wrap bash" id="highlighter_905161"><br/><div class="container">
+<div class="line number1 index0 alt2"><code class="bash functions">cd</code> <code class="bash plain">/usr/local/src</code></div>
+<div class="line number3 index2 alt2"><code class="bash plain">wget http:</code><code class="bash plain">//files</code><code class="bash plain">.directadmin.com</code><code class="bash plain">/services/9</code><code class="bash plain">.0</code><code class="bash plain">/ExtUtils-MakeMaker-6</code><code class="bash plain">.31.</code><code class="bash functions">tar</code><code class="bash plain">.gz</code></div>
+<div class="line number3 index2 alt2"><code class="bash functions">tar</code> <code class="bash plain">xzvf ExtUtils-MakeMaker-6.31.</code><code class="bash functions">tar</code><code class="bash plain">.gz </code></div>
+<div class="line number4 index3 alt1"><code class="bash functions">cd</code> <code class="bash plain">ExtUtils-MakeMaker-6.31 </code></div>
+<div class="line number5 index4 alt2"><code class="bash plain">perl Makefile.PL </code></div>
+<div class="line number6 index5 alt1"><code class="bash functions">make</code>   </div>
+<div class="line number7 index6 alt2"><code class="bash functions">make</code> <code class="bash functions">install</code></div>
+</div>
+</div>
+</div>
+<p> <span>Download the latest version of git:</span></p>
+<div class="container">
+<div class="line number1 index0 alt2"><code class="bash functions">cd</code> <code class="bash plain">/usr/local/src</code></div>
+<div class="line number2 index1 alt1"><code class="bash plain">wget http:</code><code class="bash plain">//git-core</code><code class="bash plain">.googlecode.com</code><code class="bash plain">/files/git-1</code><code class="bash plain">.7.12.</code><code class="bash functions">tar</code><code class="bash plain">.gz </code></div>
+<div class="line number3 index2 alt2"><code class="bash functions">tar</code> <code class="bash plain">xzvf git-1.7.12.</code><code class="bash functions">tar</code><code class="bash plain">.gz </code></div>
+<div class="line number4 index3 alt1"><code class="bash functions">cd</code> <code class="bash plain">git-1.7.12 </code></div>
+<div class="line number5 index4 alt2"><code class="bash plain">.</code><code class="bash plain">/configure</code></div>
+<div class="line number6 index5 alt1"><code class="bash functions">make</code></div>
+<div class="line number7 index6 alt2"><code class="bash functions">make</code> <code class="bash functions">install</code></div>
+</div>
+<div class="line number7 index6 alt2"></div>
+<div class="line number7 index6 alt2"><a href="http://blog.servint.net/2012/03/30/the-tech-bench-changing-a-document-root-in-cpanel/">http://blog.servint.net/2012/03/30/the-tech-bench-changing-a-document-root-in-cpanel/</a></div>
+
+
+

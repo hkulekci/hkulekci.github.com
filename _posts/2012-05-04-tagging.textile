@@ -1,0 +1,15 @@
+---
+layout: post
+title: tagging
+---
+
+h1. {{ page.title }}
+
+p(meta). 4 May 2012 - Ankara
+
+http://gitready.com/beginner/2009/02/03/tagging.html
+
+
+
+
+

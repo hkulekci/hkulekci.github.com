@@ -1,0 +1,20 @@
+---
+layout: post
+title: Building a mobile app. Do it step by step. Literally. There are 3 reasons.
+---
+
+h1. {{ page.title }}
+
+p(meta). 27 May 2012 - Ankara
+
+<p><a class="tumblr_blog" href="http://marisantons.com/post/23220733569/building-a-mobile-app-do-it-step-by-step-literally">marisantons</a>:</p>
+<blockquote>
+<p><img src="http://media.tumblr.com/tumblr_m45soqOlSH1qc5jid.jpg" width="400"/></p>
+<p>This thought has been brewing in my mind for a while. Reason is that lately there are more and more businesses that have decided that they should deliver on mobile as well. That’s cool. I completely support that and urge others to think about this. The better you will cater to your customers, the more returning business you’ll have.</p>
+<p><strong>Problem:</strong> Mobile apps are clumsy, ugly and instead of doing few things really well, they do everything &amp; badly. There are just a few out there, which do what they are supposed to do and do it well &amp; easy.</p>
+<p><strong>Solution:</strong> Build your app step by step. Start with one feature &amp; add others on top of that. Of course, this won’t work for those daredevils who want everything &amp; right now and this will cost you more than app that is done at once. In my opinion, benefits of developing app in stages, outweigh monetary losses in long term and are worth the wait. And it’s cheaper to get it right with the first time than to build an app and then rebuild it from scratch.</p>
+<p><a href="http://marisantons.com/post/23220733569/building-a-mobile-app-do-it-step-by-step-literally">Read More</a></p>
+</blockquote>
+
+
+

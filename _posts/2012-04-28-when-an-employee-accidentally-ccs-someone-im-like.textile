@@ -1,0 +1,16 @@
+---
+layout: post
+title: When an employee accidentally CC's someone, I'm like
+---
+
+h1. {{ page.title }}
+
+p(meta). 28 April 2012 - Ankara
+
+<p><a class="tumblr_blog" href="http://runningastartup.tumblr.com/post/21913656330/when-an-employee-accidentally-ccs-someone-im-like">runningastartup</a>:</p>
+<blockquote>
+<p><img height="226" src="http://i.imgur.com/cXjqv.gif" width="320"/></p>
+</blockquote>
+
+
+

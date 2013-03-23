@@ -1,0 +1,16 @@
+---
+layout: post
+title: Titanium versus PhoneGap
+---
+
+h1. {{ page.title }}
+
+p(meta). 11 June 2012 - Ankara
+
+<p>Cross-Platform Framework&#8217;ler hakkında bir kaç linki toparlamaya çalıştım ve şöyle bir şey çıktı ortaya. Özellikle Titanium ve Phonegap üzerine yoğunlaştım çünkü bu ara onlar arasında kararsız kalmıştım.</p>
+<p><a href="http://blog.marketnet.com/index.php/2012/02/17/cross-platform-mobile-development-with-titanium-and-phonegap/">http://blog.marketnet.com/index.php/2012/02/17/cross-platform-mobile-development-with-titanium-and-phonegap/</a><br/><a href="http://blog.thelonelycoder.com/2012/02/03/the-great-cross-platform-ui-challenge-titanium-vs-phonegap-vs-native/">http://blog.thelonelycoder.com/2012/02/03/the-great-cross-platform-ui-challenge-titanium-vs-phonegap-vs-native/</a><br/><a href="http://www.universalmind.com/mindshare/entry/mobile-html5-phonegap-vs-appcelerator-titanium">http://www.universalmind.com/mindshare/entry/mobile-html5-phonegap-vs-appcelerator-titanium</a></p>
+<p>ve benim yaptığım bu okumalara benzer olarak bir kişi daha bir kaç makale paylaşmış.</p>
+<p><a href="http://www.liangeugene.com/2011/05/titanium-versus-phonegap-and-others-a-summary/">http://www.liangeugene.com/2011/05/titanium-versus-phonegap-and-others-a-summary/</a></p>
+
+
+

@@ -1,0 +1,16 @@
+---
+layout: post
+title: How to run System Preferences Application on MacOSx
+---
+
+h1. {{ page.title }}
+
+p(meta). 16 December 2012 - Ankara
+
+<p>You can run directly from XCode but it can not be runned. Infact, it is builded to following path. İf you are dobule click your preferences application, system ask you &#8220;Do you want to install this?&#8221;. And added to preferences.</p>
+<blockquote>
+<p>/Users/{USERNAME}/Library/Developer/Xcode/DerivedData/{PROJECT_NAME}-grbujdxxxbucwnflbozgehbglobx/Build/Products/Debug</p>
+</blockquote>
+
+
+

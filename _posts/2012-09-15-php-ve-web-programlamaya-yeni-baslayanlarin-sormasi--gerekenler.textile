@@ -1,0 +1,31 @@
+---
+layout: post
+title: PHP ve Web Programlamaya Yeni Başlayanların Sorması  Gerekenler
+---
+
+h1. {{ page.title }}
+
+p(meta). 15 September 2012 - Ankara
+
+<p>Bu yazı ile amaçladığım sorulara cevap bulmak değil. Cevap zaten internette her yerde var. Ancak bazen öyle zamanlar geliyor ki bazı konularda kendimize ne soracağımızı bile bilemiyoruz. Bu soruların cevaplarını arayarak web programlamaya başlangıcın güzel olacağını düşünüyorum. Bu soruları kendimize sorarken veya cevaplarken adım adım gitmek daha faydalı olacaktır. Aksi durumda ilk durumdan hiç farkı olmayacaktır. Bu konuda iyi bir yere gelebilmek için her soru üzerinden özel olarak durulmalı ve araştırılmalıdır.</p>
+<p>Başlamadan not&#160;: Bazı sorular size çok yakın gelebilir hatta çok saçma gelebilir ancak bazı soruları sizin için nasıl ilginç geliyorsa bazıları içinde size saçma gelenler çok ilginç gelebilir.</p>
+<ol><li>Web sayfalarını oluşturmak için hangi diller kullanılır?</li>
+<li>HTML sayfası nedir? HTMl kodunu nerde ve nasıl yazarım?</li>
+<li>Hosting/Server nedir?</li>
+<li>Localhost/Local Server nedir?</li>
+<li>Apache Server nedir ve nasıl kurulur?</li>
+<li>PHP server nedir ve nasıl kurulur?</li>
+<li>PHP kodu nerde nasıl yazılır.</li>
+<li>PHP değişkenler ve algoritmik işlemler nasıl yapılır?</li>
+<li>HTML içerisinde PHP kodu nasıl yazılır?</li>
+<li>PHP&#8217;de string işlemleri nasıl yapılır?</li>
+<li>Database Server nedir?</li>
+<li>MySQL server nedir ve neden MySQL (ya da hangi database server kullanılacaksa)?</li>
+<li>PHP ile MySQL server&#8217;a nasıl bağlanılır ve nasıl veri çekilir?</li>
+<li>Verileri HTML kodu ekranda nasıl düzgün gösteririm?</li>
+</ol><p>Son Not&#160;: Hızlıca yazdığım için bazı adımları değiştirebilirim ya da eklemeler yapabilirim.</p>
+<p>Okuyan varsa eklemek istediğiniz birşeyler olursa yorum ya da mail yoluyla ulaşabilirsiniz. &#160;: )</p>
+<p>Yazının daha çok kişi tarafından düzenlenebilir olması için <a href="https://github.com/hkulekci/Web-Programming-with-PHP">https://github.com/hkulekci/Web-Programming-with-PHP</a></p>
+
+
+

@@ -1,0 +1,18 @@
+---
+layout: post
+title: giant robots smashing into other giant robots:  Designing for iOS: Taming UIButton
+---
+
+h1. {{ page.title }}
+
+p(meta). 13 October 2012 - Ankara
+
+http://robots.thoughtbot.com/post/33427366406/designing-for-ios-taming-uibutton
+
+<p><a class="tumblr_blog" href="http://robots.thoughtbot.com/post/33427366406/designing-for-ios-taming-uibutton">thoughtbot</a>:</p>
+<blockquote>
+<p>Regardless of the platform you are designing for, getting familiar with its technologies and frameworks is key to refining your design process; even a basic understanding of the technical environment and its constraints can help you streamline the transition from Photoshop comps to design&#8230;</p>
+</blockquote>
+
+
+

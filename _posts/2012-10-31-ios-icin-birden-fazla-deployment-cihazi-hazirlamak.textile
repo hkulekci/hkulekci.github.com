@@ -1,0 +1,17 @@
+---
+layout: post
+title: iOS için birden fazla deployment cihazı hazırlamak
+---
+
+h1. {{ page.title }}
+
+p(meta). 31 October 2012 - Ankara
+
+<p>&#8220;iOS Provisioning Portal&#8221;da kısaba bahsetmeyeceğim ki zaten birden fazla deployment kavramını aramaya başladığınızda büyük ihtimal &#8220;Provisioning Portal&#8221; nedir ne işe yarar biliyor olacaksınız diye düşünüyorum.</p>
+<p>Aslında iki konuya değineceğim. Birincisi projenizi ve sertifika bilgilerinizi başka bir bilgisayara taşımak diğeri ise &#8220;Team&#8221; içerisinde &#8220;Team Agent&#8221; dışında diğer kullanıcıların da en azından &#8220;Ad Hoc Deployment&#8221; işlemini yapabilmek.</p>
+<p>İlk olarak birinci konuyu tam olarak test etmedim ancak internetten araştırdığım kadarıyla projenizi başka bir bilgisayara taşımak için projenizin &#8220;Provision&#8221; bilgilerini &#8220;Organizer&#8221;a girdiğinizde yukarıdaki seçenkelerden &#8220;Device&#8221; seçeneğini seçiyoruz ve soldaki seçeneklerden da &#8220;Provisioning Profile&#8221;ı seçiyoruz. Seçilen menüde alt tarafta import ve export kısımlarından istediğiniz &#8220;Provision&#8221;u taşıyabiliyorsunuz. Bu durumda eksik kalan &#8220;Key Chain&#8221; üzerinden oluşturduğumuz &#8220;Private Key&#8221;lerin taşınması var.</p>
+<p>Bu anahtarların taşınması aslında ikinci konu olan Deployment konusunda da yapılması gerekiyor. &#8220;Provisioning Portal&#8221;da &#8220;Admin&#8221; yani developer olan kullanıcıların da deployment sertifikasının geçerli olabilmesi için &#8220;Team Agent&#8221; olarak CSR oluşturduğunuz bilgisayarınızdaki sertifikaların diğer bilgisayarlara taşınması gerekiyor. Bunun için &#8221;Key Chain&#8221; üzerinden taşımak istediğimiz sertifikayı &#8220;.p12&#8221; olarak export ediyoruz. Daha sonra  istediğimiz bilgisayarlarda private key&#8217;i yüklüyoruz ve portal&#8217;dan deployment sertifikalarını indiriyoruz. Artık deployment yapabiliriz. Deployment için oluşturduğumuz  &#8221;Provisioning Profile&#8221;lar artık geçerli olarak görünecektir. </p>
+<p>Normalde sadece &#8220;Team Agent&#8221; deployment yapabilir durumdadır. Bizim kurduğumuz kurguda da şu anda aslında sadece &#8220;Team Agent&#8221; deployment yapabilmektedir. &#8220;Team Agent&#8221; sertifikasını diğer kullanıcılara dağıtarak bu yetkiyi herkese vermekteyiz. Bu Deployment aşamasında karışıklıklara mahal verebilir. Şu durumda Herhangi bir admin kullanıcının bilgisayarında kendi development sertifikası, &#8220;Team Agent&#8221; &#8220;private key&#8221;i, ve  şirketin deployment sertifikası olacaktır. Bu durumda &#8220;Team Agent&#8221; deployment sertifikasını bir kere oluşturacak ve &#8220;Admin&#8221;ler sadece indirip kullanakcatır ki doğal aksiyon da bu şekildedir diye düşünüyorum.</p>
+
+
+

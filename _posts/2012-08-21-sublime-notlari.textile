@@ -1,0 +1,15 @@
+---
+layout: post
+title: Sublime Notları
+---
+
+h1. {{ page.title }}
+
+p(meta). 21 August 2012 - Ankara
+
+<p>Sublime kullanımını kolaylaştırmak için bazı ek özellikleri not etmek istiyordum. Bu yazı onun için. Umarım bir başkasına da lazım olur. </p>
+<p><a href="http://wbond.net/sublime_packages/package_control/installation">http://wbond.net/sublime_packages/package_control/installation</a><br/><a href="https://github.com/buymeasoda/soda-theme/">https://github.com/buymeasoda/soda-theme/</a><br/><a href="https://github.com/Kronuz/SublimeCodeIntel">https://github.com/Kronuz/SublimeCodeIntel</a> </p>
+<p><a href="http://1p1e1.tumblr.com/post/14262857223/9-reasons-you-must-install-sublime-text-2-code-like-a">http://1p1e1.tumblr.com/post/14262857223/9-reasons-you-must-install-sublime-text-2-code-like-a</a></p>
+
+
+

@@ -1,0 +1,16 @@
+---
+layout: post
+title: pubsubhubbub 
+---
+
+h1. {{ page.title }}
+
+p(meta). 14 June 2012 - Ankara
+
+<p>A simple, open, web-hook-based pubsub protocol &amp; open source reference implementation.</p>
+<p>Extras&#160;:</p>
+<p><a href="https://github.com/technoweenie/nubnub">https://github.com/technoweenie/nubnub</a><br/><a href="http://techno-weenie.net/2010/10/5/nub-nub/">http://techno-weenie.net/2010/10/5/nub-nub/</a><br/><a href="http://code.google.com/p/pubsubhubbub/wiki/BestPractices">http://code.google.com/p/pubsubhubbub/wiki/BestPractices</a></p>
+<p>&#8230;</p>
+
+
+

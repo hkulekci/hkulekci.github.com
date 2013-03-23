@@ -1,0 +1,18 @@
+---
+layout: post
+title: Titanium & HTTP Request
+---
+
+h1. {{ page.title }}
+
+p(meta). 8 June 2012 - Ankara
+
+<p><a href="https://gist.github.com/2895479#file_tiajax.js"><img src="http://f.cl.ly/items/1I3F3s0F380s17000G1m/gist2.png"/></a></p>
+<p><a href="https://gist.github.com/2895479#file_usage.js"><img src="http://f.cl.ly/items/1X1o3S2V0H1n0R3Q0S0K/gist1.png"/></a></p>
+<p>I created this method to simplify usage of the Titanium.Network.createHTTPClient method. You can use following tools for more complex operations.</p>
+<p><a href="http://harry.me/2010/11/27/ajax-for-titanium/"><a href="http://harry.me/2010/11/27/ajax-for-titanium/">http://harry.me/2010/11/27/ajax-for-titanium/</a></a></p>
+<p>You can get more information about xhr and ajax request with following link.</p>
+<p><a href="http://www.vancelucas.com/blog/easier-titanium-xhr-and-ajax-requests/"><a href="http://www.vancelucas.com/blog/easier-titanium-xhr-and-ajax-requests/">http://www.vancelucas.com/blog/easier-titanium-xhr-and-ajax-requests/</a></a><br/><a href="http://developer.appcelerator.com/question/68131/problems-with-xhrsetrequestheader-and-content-type"><a href="http://developer.appcelerator.com/question/68131/problems-with-xhrsetrequestheader-and-content-type">http://developer.appcelerator.com/question/68131/problems-with-xhrsetrequestheader-and-content-type</a></a></p>
+
+
+

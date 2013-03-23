@@ -1,0 +1,13 @@
+---
+layout: post
+title: Some Video Links About Backbone.js
+---
+
+h1. {{ page.title }}
+
+p(meta). 29 September 2012 - Ankara
+
+<p><a href="https://www.youtube.com/watch?v=PqtYcHyyWJA">https://www.youtube.com/watch?v=PqtYcHyyWJA</a><br/><a href="https://www.youtube.com/watch?v=2BDGBJUtAmo">https://www.youtube.com/watch?v=2BDGBJUtAmo</a><br/><a href="https://www.youtube.com/watch?v=uYIzpHjPgXE">https://www.youtube.com/watch?v=uYIzpHjPgXE</a></p>
+
+
+

@@ -1,0 +1,26 @@
+---
+layout: post
+title: tail programı
+---
+
+h1. {{ page.title }}
+
+p(meta). 3 August 2012 - Ankara
+                            
+<p>tail komutu bildiğimiz gibi dosyadan veri göstermek için kullanılır. Kullanımını genellemek gerekirse aşağıdaki gibidir.</p>
+<blockquote>
+<p>tail [options] &lt;file_name&gt;</p>
+</blockquote>
+<p>Bu kullanımda “options” kısmına -f, -n, -c ekleyebilirsiniz. bunlar için daha geniş dökümantasayon için <a href="http://en.wikipedia.org/wiki/Tail_%28Unix%29"></a><a href="http://en.wikipedia.org/wiki/Tail_%28Unix%29">http://en.wikipedia.org/wiki/Tail_%28Unix%29</a> adresini kullanabilirsiniz. Benim asıl belirtmek istediğim konu. Siz bir dosyanın sadece belli bir kısmını almak istiyorsanız ne yapacaksınız.</p>
+<p>şimdilik benim en kısa çözümüm için örnek aşağıdaki gibi oluyor.</p>
+<blockquote>
+<p>tail -5 log_file.log &gt; saved.file.log</p>
+</blockquote>
+<p>Bu durumda dosyanın son 5 satırını saved.file.log dosyasına yazdırıyoruz. Dosyada ara satırlara ulaşmak için ise programı aşağıdaki gibi kullanabilirsiniz.</p>
+<blockquote>
+<p>tail +10 mongod.log | tail -5</p>
+</blockquote>
+<p>İlk 10 satırın son 5 satırına ulaşabilirsiniz. Ya da son 100 satırın ilk 10 satırına bakalım.</p>
+<blockquote>
+<p>tail -100 mongod.log | tail +10</p>
+</blockquote>

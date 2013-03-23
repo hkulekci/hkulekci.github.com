@@ -1,0 +1,20 @@
+---
+layout: post
+title: 
+---
+
+h1. {{ page.title }}
+
+p(meta). 26 April 2012 - Ankara
+
+<a href="http://scanf-info.tumblr.com/image/21845564107"><img alt="Facebook iOS sdk URL Types and URL Schemes Settings Example on XCode 4.2
+But this option is not working. You can use the following option :&nbsp;
+" src="http://25.media.tumblr.com/tumblr_m337h7P5Fu1qibl6go1_500.png"></a>
+                            
+<p></p><p>Facebook iOS sdk URL Types and URL Schemes Settings Example on XCode 4.2</p>
+<p>But this option is not working. You can use the following option :&nbsp;</p>
+<p><a target="_blank" href="http://f.cl.ly/items/021P3S121O1m3Q3U3D3u/fbUrlTypesSchemes.png"><img width="420" height="100" src="http://f.cl.ly/items/021P3S121O1m3Q3U3D3u/fbUrlTypesSchemes.png"></a></p><p></p>
+
+
+xcode, facebook, ios, sdk, xcode 4.2, url types, url schemes, setting, url, targets, build settings
+

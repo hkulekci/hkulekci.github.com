@@ -1,0 +1,16 @@
+---
+layout: post
+title: Database Systems Comparisons
+---
+
+h1. {{ page.title }}
+
+p(meta). 13 October 2012 - Ankara
+
+<p>In fact, I want to share following link first of all. This article is the best for me. But i will add some extra links, over time.</p>
+<p><a href="http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis">http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis</a></p>
+<p>Extra links&#160;:</p>
+<p><a href="http://stackoverflow.com/questions/2892729/mongodb-vs-cassandra">http://stackoverflow.com/questions/2892729/mongodb-vs-cassandra</a><br/><a href="http://masonoise.wordpress.com/2010/01/30/comparing-mongodb-and-redis-part-1/">http://masonoise.wordpress.com/2010/01/30/comparing-mongodb-and-redis-part-1/</a><br/><a href="https://plus.google.com/107397941677313236670/posts/LFBB233PKQ1">https://plus.google.com/107397941677313236670/posts/LFBB233PKQ1</a><br/><br/></p>
+
+
+

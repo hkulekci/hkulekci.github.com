@@ -1,0 +1,15 @@
+---
+layout: post
+title: Configuring Zend Server or Zend Server CE on Mac OS X
+---
+
+h1. {{ page.title }}
+
+p(meta). 22 December 2012 - Ankara
+
+http://www.andrew-kirkpatrick.com/2011/04/configuring-zend-server-ce-on-mac-os-x/
+
+
+
+
+

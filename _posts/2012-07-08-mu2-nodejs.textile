@@ -1,0 +1,25 @@
+---
+layout: post
+title: mu2 Node.Js
+---
+
+h1. {{ page.title }}
+
+p(meta). 8 July 2012 - Ankara
+
+<p>To use mu2 module on node.js, you must install it with npm like this.</p>
+<blockquote>
+<p><span class="Apple-style-span">npm install mu2</span></p>
+</blockquote>
+<p>This module is listed on <a href="https://github.com/joyent/node/wiki/Modules#wiki-templating"><a href="https://github.com/joyent/node/wiki/Modules#wiki-templating">https://github.com/joyent/node/wiki/Modules#wiki-templating</a></a> page and module source is on <a href="https://github.com/raycmorgan/Mu"><a href="https://github.com/raycmorgan/Mu">https://github.com/raycmorgan/Mu</a></a> </p>
+<p>Now, on app.js file, you must add <span class="nx">mu</span><span> </span><span class="o">=</span><span> </span><span class="nx">require</span><span class="p">(</span><span class="s1">&#8216;mu2&#8217;</span><span class="p">) </span>line. To compile and rendering the template file you can use the following lines.</p>
+<blockquote>
+<p><span class="p"><span class="kd">var</span> <span class="nx">rs</span> <span class="o">=</span> <span class="nx">mu</span><span class="p">.</span><span class="nx">compileAndRender</span><span class="p">(</span><strong><br/></strong></span>    <span class="nx">__dirname</span><span> </span><span class="o">+</span><span> </span><span class="s1">&#8216;/template.html&#8217;</span><span class="p">,<br/></span><span class="p">    </span><span class="p">{</span><span class="nx">SERVER</span><span class="o">:</span><span> </span><span class="s2">&#8220;192.168.2.138:8080&#8221;</span><span class="p">});</span><span class="p"><br/></span></p>
+</blockquote>
+<p><span class="p"></span>In the template file, you can use the variable like this</p>
+<blockquote>
+<p><span class="kd">var</span><span> </span><span class="nx">socket</span><span> </span><span class="o">=</span><span> </span><span class="k">new</span><span> </span><span class="nx">io</span><span class="p">.</span><span class="nx">connect</span><span class="p">(</span><span class="s1">&#8216;http://{{SERVER}}&#8217;</span><span class="p">);</span></p>
+</blockquote>
+
+
+

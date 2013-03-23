@@ -1,0 +1,17 @@
+---
+layout: post
+title: Best way to create an iso file on Mac
+---
+
+h1. {{ page.title }}
+
+p(meta). 25 August 2012 - Ankara
+
+<p>You can execute following code on terminal to change a folder to an iso.  </p>
+<blockquote>
+<p>hdiutil makehybrid -o ~/Desktop/image.iso ~/path/to/folder/to/be/converted -iso -joliet</p>
+</blockquote>
+<p>That&#8217;s it. </p>
+
+
+

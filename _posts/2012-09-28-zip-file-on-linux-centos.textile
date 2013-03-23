@@ -1,0 +1,22 @@
+---
+layout: post
+title: Zip file on Linux (CentOS)
+---
+
+h1. {{ page.title }}
+
+p(meta). 28 September 2012 - Ankara
+
+<p>Syntax </p>
+<blockquote>
+<pre class="bash"><span>zip</span> <span>file</span>.<span>zip</span> file1 file2
+<span>zip</span> <span>file</span>.<span>zip</span> dir1
+<span>zip</span> -option <span>file</span>.<span>zip</span> </pre>
+</blockquote>
+<p>Example</p>
+<blockquote>
+<pre class="bash"><span>$ zip -r myvacationpics.zip /home/you/pics/</span></pre>
+</blockquote>
+
+
+

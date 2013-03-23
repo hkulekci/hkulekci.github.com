@@ -1,0 +1,11 @@
+---
+layout: post
+title: Bir Söz
+---
+
+h1. {{ page.title }}
+
+p(meta). 15 September 2012 - Ankara
+
+"The difference between successful people and very successful people is that very successful people say “no” to almost everything."
+

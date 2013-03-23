@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Apple Push Notification" için notlar
+---
+
+h1. {{ page.title }}
+
+p(meta). 5 May 2012 - Ankara
+
+<p>Belki de ios uygulamaları için bildirim yapabilmek için araştırma yaparken herkesin karşısına gelmiş olan şu site ile işe başladım.</p>
+<p><a href="http://mobiforge.com/developing/story/programming-apple-push-notification-services">http://mobiforge.com/developing/story/programming-apple-push-notification-services</a></p>
+<p>Adımları tek tek uygularken, Provisioning Portal üzerinden uygulama oluşturma adımlarını tekrar yapmamı istediğini farkettim ama ben tabi akıllılık yapacağım ya. Kim uğraşacak o kadar sertifika bilmem ne felan dedim atladım adımları. Uygulamayı çalıştırdığımda sonradan hatalarla kaşılaştıkça ve aramalar sonucunda şöyle bir blog yazısı ile karşılaştım.&nbsp;</p>
+<p><a href="http://en.saturngod.net/error-domainnscocoaerrordomain-code3000-useri">http://en.saturngod.net/error-domainnscocoaerrordomain-code3000-useri</a></p>
+<p>Tabi bu sayfaya gitmeden önce aldığım hata şöyle bir şeydi “Error Domain=NSCocoaErrorDomain Code=3000”. Bu hata ile anladım ki yüklü olan “provision profile” ile birlikte push notification sertificasına ulaşılamıyor. Yukarıdaki sayfadan sonra bende uygulamam üzerinden AppID sayfasından uygulamamın push notification ayarlarını zaten düzenlemiştim. Apple developer üzerinde “Provisioning” sayfasından bir “provisioning profile” daha oluşturdum. Bunun adını farklı verdim ve XCode üzerinden profili yükledim. Uygulamayı tekrar çalıştırdığımda yine hata aynı hatayı aldım. Tam kafayı yemek üzereyken ki bu süre 10 dakika kadar sürdü. Target-&gt;AppName-&gt;Build Settings-&gt;”Code Signing Identity” üzerinde yapılması gerekn değişiklik aklıma geldi ve ordan son yüklediğim profilin bağlı olduğu sertifikayı seçtim ve uygulamayı çalıştırdığımda sevinç gözyaşlarına boğuldum.&nbsp;</p>
+<p>Server tarafında yapılacaklara gelmişken. Ben server tarafında php kullandığım için bir kaç araçlar ile karşılaştım. Bunlar :&nbsp;</p>
+<p><a href="http://code.google.com/p/apns-php/">http://code.google.com/p/apns-php/</a><br><a href="http://www.easyapns.com/%C2%A0">http://www.easyapns.com/&nbsp;</a></p>
+<p>Bu araçların ikisinide denedim ve easyapns’nin hakikaten kolay olduğunu gördüm. İkiside kullanılabilir tabi ki. Bunların yanında bu adresteki <a href="http://samvermette.com/145">http://samvermette.com/145</a> yazıya da bir göz atarsanız biraz daha olayın özüne erebilirsiniz.&nbsp;</p>
+<p>Ayrıca Java dilini kullanmak isteyen kullanıcılar için&nbsp;http://code.google.com/p/javapns/ iyi bir tool olabilir.&nbsp;</p>
+<p>Bağlantılar :&nbsp;</p>
+<p><a href="http://www.raywenderlich.com/3443/apple-push-notification-services-tutorial-part-12">http://www.raywenderlich.com/3443/apple-push-notification-services-tutorial-part-12</a><br><a href="http://www.cktsoi.com/2012/02/sending-apple-push-notification-in-python/">http://www.cktsoi.com/2012/02/sending-apple-push-notification-in-python/</a></p>

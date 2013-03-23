@@ -1,0 +1,17 @@
+---
+layout: post
+title: Some notes for Git 
+---
+
+h1. {{ page.title }}
+
+p(meta). 9 October 2012 - Ankara
+
+<p>git log &#8212;pretty=oneline</p>
+<p>git log &#8212;pretty=oneline &#8212;graph</p>
+<p>git log &#8212;before=&#8221;2 weeks ago&#8221; &#8212;after=&#8221;2012-10-11&#8221; &#8212;pretty=oneline</p>
+<p>git show &#8212;pretty=&#8221;format:&#8221; &#8212;name-only bd61ad98</p>
+<p><a href="http://git-scm.com/book/en/Git-Basics-Viewing-the-Commit-History">http://git-scm.com/book/en/Git-Basics-Viewing-the-Commit-History</a><br/><a href="http://stackoverflow.com/questions/424071/list-all-the-files-for-a-commit-in-git">http://stackoverflow.com/questions/424071/list-all-the-files-for-a-commit-in-git</a><br/><a href="http://learn.github.com/p/log.html">http://learn.github.com/p/log.html</a></p>
+
+
+

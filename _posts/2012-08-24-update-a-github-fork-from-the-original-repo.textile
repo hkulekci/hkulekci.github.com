@@ -1,0 +1,15 @@
+---
+layout: post
+title: Update a Github Fork from the Original Repo
+---
+
+h1. {{ page.title }}
+
+p(meta). 24 August 2012 - Ankara
+
+http://bradlyfeeley.com/2008/09/03/update-a-github-fork-from-the-original-repo/
+
+<p>Extra Link&#160;: <a href="http://stackoverflow.com/questions/7244321/how-to-update-github-forked-repository">http://stackoverflow.com/questions/7244321/how-to-update-github-forked-repository</a></p>
+
+
+

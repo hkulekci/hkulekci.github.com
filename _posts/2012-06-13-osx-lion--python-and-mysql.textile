@@ -1,0 +1,33 @@
+---
+layout: post
+title: OSx Lion => Python and Mysql
+---
+
+h1. {{ page.title }}
+
+p(meta). 13 June 2012 - Ankara
+
+<p>First of all, Mac OS X Lion now ships with Python 2.7 already installed which is the version we will use. Also, you will need some development libraries to be installed, for that download XCode from the App Store. I assume that mysql was installed.</p>
+<p>After that download MySQLdb library from <a href="http://sourceforge.net/projects/mysql-python/">http://sourceforge.net/projects/mysql-python/</a> address and unzip it. After that you can run the following instructions.</p>
+<blockquote>
+<p>cd python-mysql-directory</p>
+</blockquote>
+<p>You must use sudo x86_64 arch flag if your system architecture is x86_64 otherwise you can use i386.  </p>
+<blockquote>
+<p>sudo python ARCHFLAGS=&#8217;-arch x86_64&#8217; setup.py build<br/>sudo python ARCHFLAGS=&#8217;-arch x86_64&#8217; setup.py install</p>
+</blockquote>
+<p>It’s likely you will come with the following error:</p>
+<blockquote>
+<div class="text codecolorer">Library not loaded: libmysqlclient.18.dylib</div>
+</blockquote>
+<p>Here’s how I fixed it, add the following to your ~/.profile or ~/.bash_profile:</p>
+<blockquote>
+<div class="text codecolorer">vi ~/.profile (to edit the file)</div>
+</blockquote>
+<p>Insert the following line:</p>
+<blockquote>
+<div class="text codecolorer">export DYLD_LIBRARY_PATH=/usr/local/mysql/lib:$DYLD_LIBRARY_PATH</div>
+</blockquote>
+
+
+

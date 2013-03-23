@@ -1,0 +1,18 @@
+---
+layout: post
+title: Neo4j Kurulumu için
+---
+
+h1. {{ page.title }}
+
+p(meta). 19 September 2012 - Ankara
+
+<p>Neo4j&#8217;i server olarak kurmaya çalışırken çıkan sorunları ve kurulum aşamasını aşağıdaki linklerden takip ettim.</p>
+<ol><li><a href="http://docs.neo4j.org/chunked/stable/server-installation.html">http://docs.neo4j.org/chunked/stable/server-installation.html</a></li>
+<li><a href="http://tboxmy.blogspot.com/2012/04/installing-java-on-centos-6.html">http://tboxmy.blogspot.com/2012/04/installing-java-on-centos-6.html</a></li>
+<li><a href="http://serverfault.com/questions/50883/what-is-the-value-of-java-home-for-centos">http://serverfault.com/questions/50883/what-is-the-value-of-java-home-for-centos</a></li>
+<li><a href="http://www.infusedpost.com/2012/05/30/change-neo4j-open-file-limit/">http://www.infusedpost.com/2012/05/30/change-neo4j-open-file-limit/</a></li>
+</ol>
+
+
+

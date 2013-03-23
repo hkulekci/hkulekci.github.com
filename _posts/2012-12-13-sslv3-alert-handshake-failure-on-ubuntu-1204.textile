@@ -1,0 +1,21 @@
+---
+layout: post
+title: sslv3 alert handshake failure on Ubuntu 12.04
+---
+
+h1. {{ page.title }}
+
+p(meta). 13 December 2012 - Ankara
+
+<p>if you are using some client library (ruby httpclient, python ssl.py, &#8230; etc.) adn getting an SSL error similar to</p>
+<blockquote>
+<p>ssl.SSLError: [Errno 1] _ssl.c:504: error:14077410:SSL routines:SSL23_GET_SERVER_HELLO:sslv3 alert handshake failure</p>
+</blockquote>
+<p>then there are some solution to this.</p>
+<p>For Python solution is&#160;:</p>
+<p>In /usr/lib/python2.7/ssl.py on line 372, &#8216;ssl_version=PROTOCOL_SSLv23&#8217; is changed to &#8216;ssl_version=PROTOCOL_SSLv3&#8217; and save.</p>
+<p>For Ruby solution is&#160;:</p>
+<p><a href="http://eigenjoy.com/2008/04/26/fix-for-sslv3-alert-handshake-failure-opensslsslsslerror/"><a href="http://eigenjoy.com/2008/04/26/fix-for-sslv3-alert-handshake-failure-opensslsslsslerror/">http://eigenjoy.com/2008/04/26/fix-for-sslv3-alert-handshake-failure-opensslsslsslerror/</a></a></p>
+
+
+
