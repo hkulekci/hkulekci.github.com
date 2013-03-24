@@ -1,0 +1,24 @@
+---
+layout: post
+title: Garaj Etkinliği - "Dinleme ve Soruların Gücü"
+---
+
+h1. {{ page.title }}
+
+p(meta). 24 March 2013 - Ankara
+
+Geçtiğimiz hafta sonu iki güzel etkinlik vardi. Birisi Bilmok, benim ogrencilik yıllarımdan beri takip ettiğim bir ögrenci etkinligi. Diğeri de benim calığtığım şirket bünyesinde girişimcilere verilen eğitim. Ne kadar da Bilmok'ü uzaktan takip etsem de iki etkinlikte bence cok guzeldi. Ben yazımda Viveka'nın düzenlediği etkinlikten bahsedeceğim. İnşallah kısa zamanda Bilmok hakkında da guzel yazılar okuruz.
+
+Garaj'daki etkinliğin genel konusu kullanıcılarınız ve sizin karşınızdakiler ile iletişiminiz hakkında idi. Zaten bu etkinlik girişimcilere bir rehberlik eğitimi idi. Bu baglamda girisimcilerin aklina ilk olarak kendilerini (projelerini) anlattiklari kişilere nasıl bir tavır takınacaklari geliyor haliyle. Zaten girişimci hızlı aksiyon almak isteyen kişiler de degil midir? Ben bu konuda etkinlikten aldığım ve belki kendi ekleyeceğim bir kaç ek ile anlatmaya çalışacağım. Başlayalim.
+
+Girişiminizin iyi yönlerinden bahsedin, kötü yönlerini ise iyi bilin. Yani sadece iyi yönlerine odaklanmayın. Anlatırken iyi yönlerinden bahsederken, kendi içerinizde ya da ekibiniz içerisinde kötü yönlerini tartisin bu yönlerini nasıl düzenleyeceğinizi düşünün.
+
+Peki bu kötü yönleri nasil keşfedeceksiniz sorusu aklınıza gelebilir. Bunun için etkinlikte de çokca tartışılan anket yöntemi, müşteri ile birebir sohbet yöntemini kullanabilirsiniz. Ancak bu konuda dikkatli davranmalısınız. Çünkü müşteriye ya da kullanıcımıza soracağımız soruları iyi seçmeliyiz. Sorduğumuz sorular ile bir yandan müşteriyi istediğiniz cevaba yönlendirirken bir yandan da müşterinin kendini keşfetmesini sağlayabilirsiniz. Aslinda sağlamalısınız. Bu bağlamda sorularınızı farkındalıkla sormalısınız. İster anket olsun ister sözlü sohbet olsun sorularınızı çok dikkatli seçmeli ve müşteriyi gerektiği yerde düşündürmeye itmelisiniz. Sorularinizdaki olumsuzluklar müşteriyi zaman zaman olumsuzluğa itebilir. Anket için gerekirse profesyonel destek almalısınız. 
+
+Aynı şekilde olumsuz sorular sizi de olumsuz düşünmeye itebilir. "Acaba bunu başarabilecek miyim?" sorusu olumsuz bir sorudur ve sizin için hissiyati olumsuz olacaktır. "Buna değer mi?" bu gibi sorular sizi olumsuz düşünmeye itecektir. Benim şahsi fikrim bence bu durumlarda sizi olumlu bir yöne itecek sorular ile ilerlemelisiniz. Burada olumsuz herşeyi hayatınızdan çıkarın olmamalı. Sadece olumsuzlukları olumlu sorular ile çözebilirsiniz.
+
+Olumlu ve olumsuz sorular üzerine ilerlersek projenizi anlatırken kullandığınız kelimeler ve cümleleri de seçerken aynı şeyler geçerlidir. Projenizi anlatırken bir pattern oluşturun ve pattern olumlu şeylerden oluşsun. Çünkü insanlar olumlu patternler hakkında konuşurken pattern'e uymak adına yine olumlu şeyler söyleyecektir. Örneğin siz konuşurken yemekten bahsederseniz kimse bir anda uzaydan bahsetmeyecektir.(ekstra gıcık durumlar olmadikca :)) Siz projeniz hakkında iyi şeylerden bahsederseniz ve karşınızdakine iyi şeyler hissettirirseniz o da bir başkasına bahsederken iyi şekilde devam edecektir. Tabiki zaman zaman ekstra durumlarda olacaktır.
+
+Sorulara geri dönecek olursak. Kendinize de bazı sorular sorarak daha iyi düşünmenize yardımcı olabilirsiniz. Bu tür sorulara güçlü sorular deniyormuş. :) Örneğin "Ne istiyorum?", "en iyiyi sergiledigimde ortaya ne çıkıyor?", "Düşüm nedir?", "Kime dönüşüyorum?", "Oyun planım nedir?" gibi sorularin cevapları beynin sağ tarafını çalıştıracaktır (bu da etkinlikten bir dipnot) ve sizi daha iyi düşünmeye itecektir.
+
+Elimden geldiğince notlarımı toparlamaya çalıştım. Etkinliklere katıldıkça notlarımı paylaşmaya çalışacagım.
