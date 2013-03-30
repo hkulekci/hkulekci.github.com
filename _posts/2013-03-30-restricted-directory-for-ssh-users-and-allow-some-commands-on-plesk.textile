@@ -13,15 +13,15 @@ First of all, create a user and provide a ssh access. You can use plesk to creat
 
 After that, create a restricted directory for this user. Open `/etc/ssh/sshd_config`. And add the following lines end of the file:
 
-```
+<pre class="bash">
 Match user username
         ChrootDirectory /var/www/vhosts/domain.name
-```
+</pre>
 
 `/var/www/vhosts/domain.name` is a directory for your ssh user. 
 
 At the end, add some helpful commands their bin directory. For example, git can be added. You can use following lines for git:
 
-```
+<pre class="bash">
 cp /usr/bin/git* /var/www/vhosts/doamin.name/bin/
-``` 
+</pre>
