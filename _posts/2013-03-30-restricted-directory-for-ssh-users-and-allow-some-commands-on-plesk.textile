@@ -7,7 +7,7 @@ h1. {{ page.title }}
 
 p(meta). 30 March 2013 - Ankara
 
-Basicly you can follow to provide ssh access your hosted accounts' users. "(link)":"http://www.snesjpr.org/43/how-to-add-ssh-user-in-centos/". this users can not use sudo commands or not change system files but they can access other users projects, etc. This can be prevented. 
+Basicly you can follow to provide ssh access your hosted accounts' users. "link":http://www.snesjpr.org/43/how-to-add-ssh-user-in-centos/. this users can not use sudo commands or not change system files but they can access other users projects, etc. This can be prevented. 
 
 First of all, create a user and provide a ssh access. You can use plesk to create user and you can use `nano /etc/passwd` command to provide ssh access. 
 
