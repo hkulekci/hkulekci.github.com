@@ -1,0 +1,27 @@
+---
+layout: post
+title: Restricted Directory for SSH Users And Allow Some Commands on Plesk 
+---
+
+h1. {{ page.title }}
+
+p(meta). 30 March 2013 - Ankara
+
+Basicly you can follow to provide ssh access your hosted accounts' users. <a href="http://www.snesjpr.org/43/how-to-add-ssh-user-in-centos/">[1]</a>. this users can not use sudo commands or not change system files but they can access other users projects, etc. This can be prevented. 
+
+First of all, create a user and provide a ssh access. You can use plesk to create user and you can use `nano /etc/passwd` command to provide ssh access. 
+
+After that, create a restricted directory for this user. Open `/etc/ssh/sshd_config`. And add the following lines end of the file:
+
+```
+Match user username
+        ChrootDirectory /var/www/vhosts/domain.name
+```
+
+`/var/www/vhosts/domain.name` is a directory for your ssh user. 
+
+At the end, add some helpful commands their bin directory. For example, git can be added. You can use following lines for git:
+
+```
+cp /usr/bin/git* /var/www/vhosts/doamin.name/bin/
+``` 
