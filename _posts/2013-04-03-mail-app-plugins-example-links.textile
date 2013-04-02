@@ -1,0 +1,20 @@
+---
+layout: post
+title: Mail.app Plugins Example Links
+---
+
+h1. {{ page.title }}
+
+p(meta). 30 March 2013 - Ankara
+
+<ul>
+<li><a href="http://eaganj.free.fr/weblog/?post/2009/07/14/Demystifying-Mail.app-Plugins-on-Leopard">Demystifying Mail.app Plugins on Leopard</a></li>
+<li><a href="http://www.antforge.org/blog/2011/01/11/all-rules-mail-bundle-shortcut-your-mailapp-rules">All-Rules Mail Bundle: The shortcut to your Mail.app rules</a></li>
+
+
+<li><a href="http://blog.adamnash.com/2007/09/17/getting-ready-to-write-an-apple-mailapp-plug-in-for-mac-os-x/">Getting Ready to Write an Apple Mail.app Plug-in for Mac OS X</a></li>
+<li><a href="http://code.google.com/p/quotefixformac/">QuoteFix is a plug-in for Apple Mail ...</a></li>
+<li><a href="http://www.tikouka.net/mailapp/">Apple Mail Plugins and Tools </a></li>
+
+
+</ul>
