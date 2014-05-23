@@ -87,12 +87,11 @@ h2. Finally
 
 There's actually a lot more to Markdown than this. See the official "introduction":basics and "syntax":syntax for more information. However, be aware that this is not using the official implementation, and this might work subtly differently in some of the little things.
 
-
-  [markdown]: http://daringfireball.net/projects/markdown/
-  [format]: http://www.fileformat.info/info/unicode/char/2163/index.htm
-  [markitdown]: http://www.markitdown.net/
-  [basics]: http://daringfireball.net/projects/markdown/basics
-  [syntax]: http://daringfireball.net/projects/markdown/syntax
+[markdown]http://daringfireball.net/projects/markdown/
+[format]http://www.fileformat.info/info/unicode/char/2163/index.htm
+[markitdown]http://www.markitdown.net/
+[basics]http://daringfireball.net/projects/markdown/basics
+[syntax]http://daringfireball.net/projects/markdown/syntax
 
 
 
