@@ -9,7 +9,7 @@ permalink:        pretty
 title:            kulekci.net
 tagline:          kulekci.net
 url:              http://kulekci.net
-paginate:         1
+paginate:         3
 baseurl:          /
 author:
   name:           Haydar KULEKCI

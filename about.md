@@ -3,28 +3,36 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<div id="home">
+<h1>Some Projects</h1>
+<ul class="posts">
+  <li>PHP Usulüne Uygun (Turkish)<a href="http://kulekci.net/php-the-right-way">(Page)</a> <a href="http://github.com/hkulekci/php-the-right-way">(Source)</a></li>
+  <li>Basic MVC for Slim Framework <a href="https://github.com/hkulekci/basicmvc">(Source)</a></li>
+  <li>Light Session Class <a href="https://github.com/hkulekci/session">(Source)</a></li>
+  <li>PHP-FIG Standarts Turkish Translation <a href="https://github.com/hkulekci/fig-standards">(Source)</a></li>
+  <li>A Light Tool for PHP Command Line Interface <a href="https://github.com/hkulekci/light-php-cli">(Source)</a></li>
+</ul>
+<h1>Some Gists</h1>
+<ul class="posts">
+  <li><a href="https://gist.github.com/hkulekci/7091324" target="_blank">Chosen Turkish Character Search Fix</a></li>
+  <li><a href="https://gist.github.com/hkulekci/6087182" target="_blank">Rabbit MQ and PHP</a></li>
+  <li><a href="https://gist.github.com/hkulekci/5553902" target="_blank">Memcache library for opencart </a></li>
+  <li><a href="https://gist.github.com/hkulekci/4971216" target="_blank">C# create pipe client. Tested Visual Studio 2010 with Oracle VirtualBox.</a></li>
+  <li><a href="https://gist.github.com/hkulekci/4004277" target="_blank">C# run program on background with inline event handler.</a></li>
+</ul>
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+<div class="contact">
+  <p>
+    Haydar KULEKCI<br />
+    Application Developer<br />
+    haydarkulekci@gmail.com
+  </p>
+</div>
+<div class="contact">
+  <p>
+    <a href="http://github.com/hkulekci/">github.com/hkulekci</a><br />
+    <a href="http://twitter.com/kulekci/">twitter.com/kulekci</a><br />
+    <a href="http://flickr.com/photos/kulekci/">flickr.com/photos/kulekci</a>
+  </p>
+</div>
