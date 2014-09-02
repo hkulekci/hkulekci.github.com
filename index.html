@@ -1,30 +1,37 @@
 ---
 layout: default
-title: kulekci.net
+title: Home
 ---
 
-<div id="home">
-  <h1>Some Projects</h1>
-  <ul class="posts">
-    <li>PHP Usulüne Uygun (Turkish)<a href="http://kulekci.net/php-the-right-way">(Page)</a> <a href="http://github.com/hkulekci/php-the-right-way">(Source)</a></li>
-    <li>Basic MVC for Slim Framework <a href="https://github.com/hkulekci/basicmvc">(Source)</a></li>
-    <li>Light Session Class <a href="https://github.com/hkulekci/session">(Source)</a></li>
-    <li>PHP-FIG Standarts Turkish Translation <a href="https://github.com/hkulekci/fig-standards">(Source)</a></li>
-    <li>A Light Tool for PHP Command Line Interface <a href="https://github.com/hkulekci/light-php-cli">(Source)</a></li>
-  </ul>
-  <h1>Some Gists</h1>
-  <ul class="posts">
-    <li><a href="https://gist.github.com/hkulekci/7091324" target="_blank">Chosen Turkish Character Search Fix</a></li>
-    <li><a href="https://gist.github.com/hkulekci/6087182" target="_blank">Rabbit MQ and PHP</a></li>
-    <li><a href="https://gist.github.com/hkulekci/5553902" target="_blank">Memcache library for opencart </a></li>
-    <li><a href="https://gist.github.com/hkulekci/4971216" target="_blank">C# create pipe client. Tested Visual Studio 2010 with Oracle VirtualBox.</a></li>
-    <li><a href="https://gist.github.com/hkulekci/4004277" target="_blank">C# run program on background with inline event handler.</a></li>
-  </ul>
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
 
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
 </div>

@@ -1,2 +1,22 @@
-markdown: rdiscount
-pygments: true
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            kulekci.net
+tagline:          kulekci.net
+url:              http://kulekci.net
+paginate:         1
+baseurl:          /
+author:
+  name:           Haydar KULEKCI
+  url:            https://twitter.com/kulekci
+  email:          haydarkulekci@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/hkulekci/hkulekci.github.com
