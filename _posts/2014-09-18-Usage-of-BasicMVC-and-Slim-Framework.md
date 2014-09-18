@@ -3,10 +3,6 @@ layout: post
 title: Usage of BasicMVC and Slim Framework
 ---
 
-h1. {{ page.title }}
-
-p(meta). 18 Sep 2014 - Istanbul
-
 [BasicMVC](https://github.com/hkulekci/basicmvc) is a library to create MVC structure with [Slim Framework](http://slimframework.com/). It use Slim framework router to reach to controller and model and views are called from the controller. 
 
 In this text, i am trying to help bootstraping a project with BasicMVC and Slim Framework. Firstly, let's talk about the file structure. You can use what you want in your structure. Because, in the BasicMCV, all the directories configurable. For example,
