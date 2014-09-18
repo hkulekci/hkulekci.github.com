@@ -3,10 +3,6 @@ layout: post
 title: Install Zend Server 7.0.0 and Mysql 5.6.20 on MacOSx 10.9.4
 ---
 
-h1. {{ page.title }}
-
-p(meta). 02 Sep 2014 - Istanbul
-
 By default, Zend Server 7.0.0 has MySQL 5.5. But there are lots of feature in [MySQL 5.6.20](http://dev.mysql.com/doc/relnotes/mysql/5.6/en/). ANd i decide to upgrade MySQL to 5.5 to 5.6.20. First of all, i get a backup from **PhpMyAdmin**. This is very important. And shutdown all Zend Server with 
 
 ```
