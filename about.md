@@ -8,6 +8,7 @@ title: About
 <ul class="posts">
   <li>PHP Usulüne Uygun (Turkish)<a href="http://kulekci.net/php-the-right-way">(Page)</a> <a href="http://github.com/hkulekci/php-the-right-way">(Source)</a></li>
   <li>Basic MVC for Slim Framework <a href="https://github.com/hkulekci/basicmvc">(Source)</a></li>
+  <li>Basic Libraries for Basic MVC <a href="https://github.com/hkulekci/basiclibs">(Source)</a></li>
   <li>Light Session Class <a href="https://github.com/hkulekci/session">(Source)</a></li>
   <li>PHP-FIG Standarts Turkish Translation <a href="https://github.com/hkulekci/fig-standards">(Source)</a></li>
   <li>A Light Tool for PHP Command Line Interface <a href="https://github.com/hkulekci/light-php-cli">(Source)</a></li>
