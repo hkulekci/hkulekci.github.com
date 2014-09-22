@@ -14,6 +14,8 @@ title: About
 </ul>
 <h1>Some Gists</h1>
 <ul class="posts">
+  <li><a href="https://gist.github.com/hkulekci/c6ec655b23901f5e0f15" target="_blank">Minimal ElasticSearch Client (Forked)</a></li>
+  <li><a href="https://gist.github.com/hkulekci/cb3632fbe6fc08e13e56" target="_blank">ZeroMQ Example with Python</a></li>
   <li><a href="https://gist.github.com/hkulekci/7091324" target="_blank">Chosen Turkish Character Search Fix</a></li>
   <li><a href="https://gist.github.com/hkulekci/6087182" target="_blank">Rabbit MQ and PHP</a></li>
   <li><a href="https://gist.github.com/hkulekci/5553902" target="_blank">Memcache library for opencart </a></li>
@@ -25,14 +27,16 @@ title: About
 <div class="contact">
   <p>
     Haydar KULEKCI<br />
-    Application Developer<br />
-    haydarkulekci@gmail.com
+    Application Developer at <a href="http://somedya.com" target="_blank">Somedya</a><br />
+    Co-founder at <a href="http://motivolog.com" target="_blank">Motivolog</a>
+    haydarkulekci(at)gmail.com
   </p>
 </div>
 <div class="contact">
   <p>
-    <a href="http://github.com/hkulekci/">github.com/hkulekci</a><br />
-    <a href="http://twitter.com/kulekci/">twitter.com/kulekci</a><br />
-    <a href="http://flickr.com/photos/kulekci/">flickr.com/photos/kulekci</a>
+    <a href="http://careers.stackoverflow.com/kulekci" target="_blank">Stack Overflow Careers</a>
+    <a href="http://github.com/hkulekci/" target="_blank">github.com/hkulekci</a><br />
+    <a href="http://twitter.com/kulekci/" target="_blank">twitter.com/kulekci</a><br />
+    <a href="http://flickr.com/photos/kulekci/" target="_blank">flickr.com/photos/kulekci</a>
   </p>
 </div>
