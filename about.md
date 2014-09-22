@@ -24,8 +24,9 @@ title: About
   <li><a href="https://gist.github.com/hkulekci/4004277" target="_blank">C# run program on background with inline event handler.</a></li>
 </ul>
 
+<hr>
 
-<div class="contact">
+<div class="contact1">
   <p>
     Haydar KULEKCI<br />
     Application Developer at <a href="http://somedya.com" target="_blank">Somedya</a><br />
@@ -33,11 +34,12 @@ title: About
     haydarkulekci(at)gmail.com
   </p>
 </div>
-<div class="contact">
+<div class="contact2">
   <p>
-    <a href="http://careers.stackoverflow.com/kulekci" target="_blank">Stack Overflow Careers</a>
+    <a href="http://careers.stackoverflow.com/kulekci" target="_blank">Stack Overflow Careers</a><br />
     <a href="http://github.com/hkulekci/" target="_blank">github.com/hkulekci</a><br />
     <a href="http://twitter.com/kulekci/" target="_blank">twitter.com/kulekci</a><br />
     <a href="http://flickr.com/photos/kulekci/" target="_blank">flickr.com/photos/kulekci</a>
   </p>
 </div>
+<div style="clear:both;"></div>
