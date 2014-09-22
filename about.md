@@ -28,7 +28,7 @@ title: About
   <p>
     Haydar KULEKCI<br />
     Application Developer at <a href="http://somedya.com" target="_blank">Somedya</a><br />
-    Co-founder at <a href="http://motivolog.com" target="_blank">Motivolog</a>
+    Co-founder at <a href="http://motivolog.com" target="_blank">Motivolog</a><br/>
     haydarkulekci(at)gmail.com
   </p>
 </div>
