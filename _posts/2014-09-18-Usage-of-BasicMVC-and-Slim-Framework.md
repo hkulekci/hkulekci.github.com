@@ -3,9 +3,14 @@ layout: post
 title: Usage of BasicMVC and Slim Framework
 ---
 
-[BasicMVC](https://github.com/hkulekci/basicmvc) is a library to create MVC structure with [Slim Framework](http://slimframework.com/). It use Slim framework router to reach to controller and model and views are called from the controller. 
+[BasicMVC](https://github.com/hkulekci/basicmvc) is a library to create MVC
+structure with [Slim Framework](http://slimframework.com/). It uses Slim
+framework router to reach the controllers.
 
-In this text, i am trying to help bootstraping a project with BasicMVC and Slim Framework. Firstly, let's talk about the file structure. You can use what you want in your structure. Because, in the BasicMCV, all the directories configurable. For example,
+In this text, I will try to help bootstraping a project with BasicMVC and Slim
+Framework. First, let's talk about the file structure. You can use what you want
+in your structure. Because, in the BasicMCV, all the directories configurable.
+For example,
 
     app/
         public/
@@ -17,8 +22,11 @@ In this text, i am trying to help bootstraping a project with BasicMVC and Slim 
                 ...
     .htaccess
     index.php
-    
-in this structure, application directory is `app/` directory and represented as `APP_DIR`. And your controllers is at `app/public/controllers/` and your models is at `app/public/models/` etc. When you create your BasicMVC object in index, you can set them like that: 
+
+In this structure, application directory will be `app/` directory and
+represented as `APP_DIR`. Your controllers will be at `app/public/controllers/`
+and your models will be at `app/public/models/` etc. When you create your
+BasicMVC object with index.php, you can set them like:
 
     $basicmvc = new BasicMVC($app, array(
         "controllers_path"   => APP_DIR . "public/controllers/",
@@ -27,9 +35,15 @@ in this structure, application directory is `app/` directory and represented as 
         "template_constants" => array()
     ));
 
-`template_constants` is a variable to send data directly template. I am using it to send some constant of my project. For example, I define a `BASE_URL` which is base url of my project. I send to template file and use.
+You must set your path of controllers, models and views.
 
-In fact, you must set them. They are required, too. I am using [Twig Template Engine](http://twig.sensiolabs.org/) to render views. In this example, view files is at `app/public/views/` folder. Firstly, i am creating twig object 
+`template_constants` is a variable to send data directly to view. I will use it
+to send some constant of my project. For example, I define a `BASE_URL` which
+is base url of my project. I will send it to view and use it there.
+
+I will use [Twig Template Engine](http://twig.sensiolabs.org/) to render views.
+View files are at `app/public/views/` folder. First, I will create twig object.
+See example below.
 
     $twigView = new \Slim\Views\Twig();
 
@@ -41,12 +55,14 @@ In fact, you must set them. They are required, too. I am using [Twig Template En
             'templates.path'    => APP_DIR . "public/views/"
             )
         );
-        
-You can use [Smarty Template Engine](http://www.smarty.net/) as a template engine, use following lines to add your project:
+
+You can also use [Smarty Template Engine](http://www.smarty.net/) as template
+engine. See example below.
 
     $view = new \Slim\Views\Smarty();
     $view->parserDirectory = APP_DIR . "public/views/";
     $view->parserCompileDirectory = APP_DIR . 'public/cache/';
     $view->parserCacheDirectory = APP_DIR . 'public/cache/';
 
-Thats all. You can ready to run your project. One more thing, I will explain your controller, model and view file contents following days. 
+That's all. You can ready to run your project. One more thing, I will explain
+your controller, model and view file contents following days.
