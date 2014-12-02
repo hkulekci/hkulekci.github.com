@@ -101,7 +101,7 @@ $temporary_values = array_keys(array_flip($some_values));
 print_r($temporary_values);
 ```
 
-Thank you.
+Thank you
 
 
 #### Some Links
