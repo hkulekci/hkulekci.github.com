@@ -48,7 +48,7 @@ for ($i = 0; $i < count($some_values); $i++) {
 print_r($temporary_values); // All elements of array is singular
 ```
 
-In two example, run time is the same and they are O(n2) complexity in worst case. You can check [in_array](https://github.com/php/php-src/blob/master/ext/standard/array.c#L1290) method to understand why they are the same. `in_array` method use [php_search_array](https://github.com/php/php-src/blob/master/ext/standard/array.c#L1227) method directly. And they have a loop to move on array. 
+In two example, run time is the same and they are O(n2) complexity in worst case. You can check [in_array](https://github.com/php/php-src/blob/master/ext/standard/array.c#L1290) method to understand why they are the same. `in_array` method use [php\_search\_array](https://github.com/php/php-src/blob/master/ext/standard/array.c#L1227) method directly. And they have a loop to move on array. 
 
 If we have some small array, in_array function save our time. Do we have large size array? If we have an array and it has 10,000+ elements. In this time, php return us some errors like that:
 
