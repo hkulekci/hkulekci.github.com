@@ -107,6 +107,6 @@ Thank you
 #### Some Links
 
  * [in_array function source](https://github.com/php/php-src/blob/master/ext/standard/array.c#L1290)
- * [php_search_array function source](https://github.com/php/php-src/blob/master/ext/standard/array.c#L1227)
+ * [php\_search\_array function source](https://github.com/php/php-src/blob/master/ext/standard/array.c#L1227)
  * [array_flip function source](https://github.com/php/php-src/blob/master/ext/standard/array.c#L2919)
  * [array_keys function source](https://github.com/php/php-src/blob/master/ext/standard/array.c#L2603)
