@@ -62,4 +62,4 @@ That's all for now. To more information, you can look references part.
 References : 
 
  * [Git Tools Submodule](http://git-scm.com/book/en/Git-Tools-Submodules)
- * [](http://chrisjean.com/2009/04/20/git-submodules-adding-using-removing-and-updating/)
+ * [Git Submodules: Adding, Using, Removing, Updating](http://chrisjean.com/2009/04/20/git-submodules-adding-using-removing-and-updating/)
