@@ -3,7 +3,7 @@ layout: post
 title: PHP Large Size Array
 ---
 
-We can use directly in_array method to check existing. For example:
+In PHP, we use arrays lots of times and every our projects. In this article, I will try to handle some operations for large size array. For example, we can use in_array method to check if a value exists in an array.
 
 ```
 $some_values = array(1, 2, 3, 4, 5);
