@@ -3,6 +3,8 @@ layout: post
 title: Git Submodule
 ---
 
+    I did not use git submodules in production. This article for only information. Sometimes it can be really good option.
+
 Working more than a year on git, i like that and i want to share some experience from here about submodule.
 
 Submodule is great idea to attach external repos to your project to a path. Now, we can try to create a lib directory and we put some submodules in lib's subdirectiories. I am exampling to you how the submodules is adding to a repo. 
