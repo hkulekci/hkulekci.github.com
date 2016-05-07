@@ -4,16 +4,25 @@ title: About
 ---
 
 <div id="home">
-<h1>Some Projects</h1>
+<h1>My Projects</h1>
 <ul class="posts">
-  <li>PHP Usulüne Uygun (Turkish) <a href="http://kulekci.net/php-the-right-way">(Page)</a> <a href="http://github.com/hkulekci/php-the-right-way">(Source)</a></li>
-  <li>Basic MVC for Slim Framework <a href="https://github.com/hkulekci/basicmvc">(Source)</a></li>
-  <li>Basic Libraries for Basic MVC <a href="https://github.com/hkulekci/basiclibs">(Source)</a></li>
-  <li>Light Session Class <a href="https://github.com/hkulekci/session">(Source)</a></li>
-  <li>PHP-FIG Standarts Turkish Translation <a href="https://github.com/hkulekci/fig-standards">(Source)</a></li>
-  <li>A Light Tool for PHP Command Line Interface <a href="https://github.com/hkulekci/light-php-cli">(Source)</a></li>
+  <li>Elasticsearch Blog (Turkish) <a href="http://elasticsearch.kulekci.net/" target="_blank">(Page)</a> <a href="https://github.com/hkulekci/elasticsearch" target="_blank">(Source)</a></li>
+  <li>PHP Client For Akbank API <a href="https://github.com/hkulekci/php-akbank-api" target="_blank">(Source)</a></li>
+  <li>HTTP API Design Guide (Turkish) <a href="https://github.com/hkulekci/http-api-design/tree/master/tr" target="_blank">(Source)</a></li>
+  <li>PHP Usulüne Uygun (Turkish) <a href="http://kulekci.net/php-the-right-way" target="_blank">(Page)</a> <a href="http://github.com/hkulekci/php-the-right-way" target="_blank">(Source)</a></li>
+  <li>Basic MVC for Slim Framework <a href="https://github.com/hkulekci/basicmvc" target="_blank">(Source)</a></li>
+  <li>Basic Libraries for Basic MVC <a href="https://github.com/hkulekci/basiclibs" target="_blank">(Source)</a></li>
+  <li>Light Session Class <a href="https://github.com/hkulekci/session" target="_blank">(Source)</a></li>
+  <li>PHP-FIG Standarts Turkish Translation <a href="https://github.com/hkulekci/fig-standards" target="_blank">(Source)</a></li>
+  <li>A Light Tool for PHP Command Line Interface <a href="https://github.com/hkulekci/light-php-cli" target="_blank">(Source)</a></li>
 </ul>
-<h1>Some Gists</h1>
+<h1>Projects that I Contributed</h1>
+<ul>
+  <li>Zend Framework 2 Boilerplate for Large Application <a href="https://github.com/biberlabs/zf2-boilerplate" target="_blank">(Source)</a></li>
+  <li>Zend Expressive Rest API Example <a href="https://github.com/biberlabs/rest-expressive-example" target="_blank">(Source)</a></li>
+  <li>Create a Mock API Interface with Annotations (Mockaroo Support) <a href="https://github.com/biberlabs/mocker" target="_blank">(Source)</a></li>
+</ul>
+<h1>Some of My Gists</h1>
 <ul class="posts">
   <li><a href="https://gist.github.com/hkulekci/c6ec655b23901f5e0f15" target="_blank">Minimal ElasticSearch Client (Forked)</a></li>
   <li><a href="https://gist.github.com/hkulekci/cb3632fbe6fc08e13e56" target="_blank">ZeroMQ Example with Python</a></li>
@@ -29,8 +38,8 @@ title: About
 <div class="contact1">
   <p>
     Haydar KULEKCI<br />
-    Application Developer at <a href="http://somedya.com" target="_blank">Somedya</a><br />
-    Co-founder at <a href="http://motivolog.com" target="_blank">Motivolog</a><br/>
+    Team Lead at <a href="https://www.zingat.com" target="_blank">Zingat.com</a><br />
+    Co-founder at <a href="https://motivolog.com" target="_blank">Motivolog</a><br/>
     haydarkulekci(at)gmail.com
   </p>
 </div>
