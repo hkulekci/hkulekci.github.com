@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "No Directive annotation found" Error Problem on AngularJS 2
+title: Angular 2 Directive Error
 ---
 
-For a while, I have been trying to learn AngularJS 2 and typescript. I really like 
-Last day, Some error occured which is "No Directive annotation found" and I don't
-understand why but I spent lots of time on it. The error is : 
+For a while, I have been trying to learn AngularJS 2 and typescript. I really 
+like it. Last day, Some error occured which is "No Directive annotation found" 
+while I was trying to create a directive and I don't understand exception why 
+throwing but I spent lots of time on it to solve. The error is : 
 
 ```
 members:16 Error: (SystemJS) No Directive annotation found on offClickDirective
@@ -24,8 +25,7 @@ members:16 Error: (SystemJS) No Directive annotation found on offClickDirective
   Error loading http://localhost:3000/dist/main.js
 ```
 
-Firtsly, I didn't understand why this error occured. I was only triying to create
-a derivative for handling click event. And this is my class : 
+I also imported necessary component and classes and this is my component file content: 
 
 ```
 import { Directive, Input, Host } from '@angular/core';
@@ -68,12 +68,22 @@ export class offClickDirective {
   }
 }
 ```
-Source : http://arjunu.com/2016/01/basic-angular-2-off-click-directive/
 
 After that, I thought that I had to define something to somewhere. And searched 
-on Google. I found lots of web site and lots of comments about this situation or 
-I thought that these comments was about the situation. But, they were not 
-relevant. Because all of them, was talking about version difference or importing
-problems. Finally, I came accros [this post](http://stackoverflow.com/a/34524321/721600)
+on Google. I found lots of web site and lots of comments about this situation. 
+But, in fact, they were not relevant. Because all of them, was talking about 
+version difference or importing problems. I had already imported all the 
+necessary libraries. Finally, I came accros [this post](http://stackoverflow.com/a/34524321/721600)
 and also found the solution, too. The problem is ";" (semicolon) as usually. 
-I remove my semicolon after @Directive definition and problem solved.
+I remove my semicolon after `@Directive` definition and problem solved. This is 
+the last version of the `@Directive` part of my code.
+
+```
+@Directive({
+  selector: '[offClick]',
+  //inputs: ['offClick'],
+  host: {
+    '(click)':'onClick($event)'
+  }
+}) // removed semicolon was here
+```
