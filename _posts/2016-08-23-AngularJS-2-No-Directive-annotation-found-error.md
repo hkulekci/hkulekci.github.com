@@ -4,7 +4,7 @@ title: Angular 2 Directive Error
 ---
 
 For a while, I have been trying to learn AngularJS 2 and typescript. I really 
-like it. Last day, Some error occured which is "No Directive annotation found" 
+like them. Last day, an error occured which is "No Directive annotation found" 
 while I was trying to create a directive and I don't understand exception why 
 throwing but I spent lots of time on it to solve. The error is : 
 
@@ -25,7 +25,8 @@ members:16 Error: (SystemJS) No Directive annotation found on offClickDirective
   Error loading http://localhost:3000/dist/main.js
 ```
 
-I also imported necessary component and classes and this is my component file content: 
+I also imported necessary component and classes and this is my component file 
+content: 
 
 ```
 import { Directive, Input, Host } from '@angular/core';
@@ -69,14 +70,15 @@ export class offClickDirective {
 }
 ```
 
-After that, I thought that I had to define something to somewhere. And searched 
-on Google. I found lots of web site and lots of comments about this situation. 
-But, in fact, they were not relevant. Because all of them, was talking about 
-version difference or importing problems. I had already imported all the 
-necessary libraries. Finally, I came accros [this post](http://stackoverflow.com/a/34524321/721600)
-and also found the solution, too. The problem is ";" (semicolon) as usually. 
-I remove my semicolon after `@Directive` definition and problem solved. This is 
-the last version of the `@Directive` part of my code.
+After that, I thought that I had to define something to somewhere for example 
+systemjs.config.js, ...etc. And I searched it on Google. I found lots of issues
+and lots of comments about this situation. But, in fact, they were not relevant.
+Because all of them, was talking about version difference or importing problems.
+I had already imported all the necessary libraries. Finally, I came accros 
+[this post](http://stackoverflow.com/a/34524321/721600) and also found the 
+solution, too. The problem is ";" (semicolon) as usually. I remove my semicolon 
+after `@Directive` definition and problem solved. This is the last version of 
+the `@Directive` part of my code.
 
 ```
 @Directive({
