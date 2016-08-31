@@ -6,3 +6,16 @@
     font-size: 12px;
     text-align: right;
 }
+
+.share-icons {
+	img {
+		margin-bottom: 0px !important;
+		display: inline-table !important;
+	}
+
+	@media (min-width:1024px){
+		.whatsapp-share-icon{
+			display:none;
+		}
+	}  
+}

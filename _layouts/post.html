@@ -5,6 +5,14 @@ layout: default
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
+
+  <div class="share-icons">
+    <a class="facebook-share-icon" href="javascript: void(0);" onclick="popup('http://www.facebook.com/sharer.php?u={{ site.url }}{{ page.url }}')"><img width="24" src="/public/share-icons/fb_48.png"></a>
+    <a class="twitter-share-icon" href="javascript: void(0);" onclick="popup('https://twitter.com/intent/tweet?text={{ page.title }} {{ site.url }}{{ page.url }} @kulekci')" ><img width="24" src="/public/share-icons/t_48.png"></a>
+    <a class="googleplus-share-icon" href="javascript: void(0);" onclick="popup('https://plus.google.com/share?url={{ site.url }}{{ page.url }}')"><img width="24" src="/public/share-icons/gplus_48.png"></a>
+    <a class="whatsapp-share-icon" href="whatsapp://send?text={{ page.title }} {{ site.url }}{{ page.url }}" data-action="share/whatsapp/share"><img width="24" src="/public/share-icons/w_48.png"></a>
+  </div>
+
   {{ content }}
 </div>
 
