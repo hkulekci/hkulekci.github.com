@@ -9,9 +9,9 @@ title: Speaking
 
 <ul>
  <li><a href="http://www.meetup.com/dataistanbul/events/230809445/">Elasticsearch't­e Arama ve Analiz</a> - Data Istanbul Meetup Group</li>
- <li><a href="http://www.meetup.com/dataistanbul/events/230287614/">Elasticsearch ve Temel Kavramlar - Data Istanbul Meetup Group</li>
- <li><a href="http://www.meetup.com/Istanbul-Spark-Meetup/events/231855165/">Introduction to Elasticsearch - Istanbul Spark Meetup Group</li>
- <li><a href="http://www.meetup.com/Turkey-Elastic-Fantastics/events/232831032/">Elastic Stack Hands-on Workshop & Elasticsearch - Elastic Turkey User Group</li>
+ <li><a href="http://www.meetup.com/dataistanbul/events/230287614/">Elasticsearch ve Temel Kavramlar</a> - Data Istanbul Meetup Group</li>
+ <li><a href="http://www.meetup.com/Istanbul-Spark-Meetup/events/231855165/">Introduction to Elasticsearch</a> - Istanbul Spark Meetup Group</li>
+ <li><a href="http://www.meetup.com/Turkey-Elastic-Fantastics/events/232831032/">Elastic Stack Hands-on Workshop & Elasticsearch</a> - Elastic Turkey User Group</li>
 </ul>
 <br><br>
 
