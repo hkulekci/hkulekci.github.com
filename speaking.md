@@ -5,13 +5,14 @@ title: Speaking
 
 <div id="home">
 
-Speaking at Meetups: 
+<h3>Speaking at Meetups: </h3>
 
- - [Elasticsearch't­e Arama ve Analiz](http://www.meetup.com/dataistanbul/events/230809445/) - Data Istanbul Meetup Group
- - [Elasticsearch ve Temel Kavramlar](http://www.meetup.com/dataistanbul/events/230287614/) - Data Istanbul Meetup Group
- - [Introduction to Elasticsearch](http://www.meetup.com/Istanbul-Spark-Meetup/events/231855165/) - Istanbul Spark Meetup Group
- - [Elastic Stack Hands-on Workshop & Elasticsearch ](http://www.meetup.com/Turkey-Elastic-Fantastics/events/232831032/) - Elastic Turkey User Group
-
+<ul>
+ <li><a href="http://www.meetup.com/dataistanbul/events/230809445/">Elasticsearch't­e Arama ve Analiz</a> - Data Istanbul Meetup Group</li>
+ <li><a href="http://www.meetup.com/dataistanbul/events/230287614/">Elasticsearch ve Temel Kavramlar - Data Istanbul Meetup Group</li>
+ <li><a href="http://www.meetup.com/Istanbul-Spark-Meetup/events/231855165/">Introduction to Elasticsearch - Istanbul Spark Meetup Group</li>
+ <li><a href="http://www.meetup.com/Turkey-Elastic-Fantastics/events/232831032/">Elastic Stack Hands-on Workshop & Elasticsearch - Elastic Turkey User Group</li>
+</ul>
 <br><br>
 
 <script async class="speakerdeck-embed" data-id="3d6bfe234adc4b45813feef5ff3ddc26" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
