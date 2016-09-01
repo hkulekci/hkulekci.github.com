@@ -348,7 +348,7 @@ tbody tr:nth-child(odd) th {
 .post-date {
   display: block;
   margin-top: -.5rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0.3rem;
   color: #9a9a9a;
 }
 
@@ -426,5 +426,15 @@ a.pagination-item:hover {
     margin-left: -1px;
     border-top-right-radius:    4px;
     border-bottom-right-radius: 4px;
+  }
+}
+.share-icons img {
+  margin-bottom: 0px !important;
+  display: inline-table !important;
+}
+
+@media (min-width:1024px){
+  .share-icons .whatsapp-share-icon{
+    display:none;
   }
 }
