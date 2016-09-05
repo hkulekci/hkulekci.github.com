@@ -3,14 +3,20 @@ layout: post
 title: Doctrine Mapped Super Class 
 ---
 
-Think that, there is a OAuth Module for an API and you try to create user model 
-for this module but you have already create another user model, I mention as 
-`BaseUser`, for your system. You can use directly `BaseUser` model. In my view, 
-this is wrong for modular system. You should extend `BaseUser` for your OAuth 
-module. In this scenario, you can easily extend your `BaseUser` model and 
-add external methods for OAuth systems. 
+If you want to extend an entity class and you dont want to create a new table on
+your db, you need to use MappedSuperClass. 
 
-Lets create a example for this situation:
+For example, you want to use OAuth2 of PHP League on your system and you 
+should create user model to implement server. But you have already create 
+another user model, I mention as `BaseUser`, before for your own system. 
+Of course You can use directly `BaseUser` model. In my view, this is wrong for 
+modular system for two reason. The first reason is you can not seperate your 
+server module from your base module. The second reason is, your `BaseUser` model
+will contain unnecessary methods about OAuth2. So, you should extend `BaseUser` 
+for your OAuth module. In the first scenario, you can easily extend your 
+`BaseUser` model and add external methods for OAuth2 systems. 
+
+Lets create a sample User Entity for this situation:
 
 ```
 /**
@@ -52,9 +58,9 @@ use League\OAuth2\Server\Entities\UserEntityInterface;
 use YourModule\Entity\User as BaseUser;
 
 /**
- * Class User
+ * Class OAuth2User
  */
-class User extends BaseUser implements UserEntityInterface
+class OAuth2User extends BaseUser implements UserEntityInterface
 {
     /**
      * Return the user's identifier. This method required extenal OAuth module 
@@ -69,13 +75,14 @@ class User extends BaseUser implements UserEntityInterface
 }
 ```
 
-Now, we update our schema for doctrine. 
+Run the following commands to update our schema for doctrine: 
 
 ```
 php vendor/bin/doctrine orm:schema-tool:update --dump-sql
 ```
 
-The response will be weired. Doctrine gives you some errors about super class.
+Lets look what the response will be. Doctrine gives you some errors about super 
+class:
 
 ```
   [Doctrine\ORM\Mapping\MappingException]
@@ -83,11 +90,11 @@ The response will be weired. Doctrine gives you some errors about super class.
   super class.
 ```
 
-Doctrine say us that, there is a class and extends an Entity. Do something to 
+Doctrine say us, there is a class and it extends an Entity. Do something to 
 solve this problem because I dont know how to use this class as an entity or 
-what? There is to way to solve this problem. First one is: 
+what? There are some solution to solve this problem. First one is: 
 
-Add your OAuth's User as basicly `Entity`
+Mark your OAuth2User as basicly `Entity` class
 
 ```
 /**
@@ -101,8 +108,9 @@ class User extends BaseUser implements UserEntityInterface
 }
 ```
 
-In this scenario, Doctrine will create us a new `User` table. We dont want it.
-We want to use our base db table as our OAuth user table. We should use 
+In this scenario, Doctrine will create us a new `User` table. But we don't want 
+it. We want to use our `BaseUser` table as our OAuth2User table. We want to 
+extend our DB table also, whe we extends our class. You should use 
 `MappedSuperclass` feature of Doctrine like this:
 
 ```
