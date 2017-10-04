@@ -38,8 +38,8 @@ title: About
 <div class="contact1">
   <p>
     Haydar KULEKCI<br />
-    Team Lead at <a href="https://www.zingat.com" target="_blank">Zingat.com</a><br />
-    Co-founder at <a href="https://motivolog.com" target="_blank">Motivolog</a><br/>
+    Father of One<br />
+    Developer and Co-founder at <a href="https://motivolog.com" target="_blank">Motivolog</a><br/>
     haydarkulekci(at)gmail.com
   </p>
 </div>
